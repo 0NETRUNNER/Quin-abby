@@ -8,23 +8,24 @@
 #logo {
     padding-left: 10px;
     font-size: 40px;
-    line-height: 80px;
-    color: black;
+    line-height: 100px;
+    color: whitesmoke;
 }
  nav {
+    height: 120px;
     background-color: grey;
-    background-image: url(../images/quin-abby-head-1.jpg);
+    background-image: url(../images/quin-abby-head-2.jpg);
     background-position: center;
-    background-size: cover;
+    background-size:cover;
     background-repeat: no-repeat;
     background-blend-mode: soft-light;
  }
 
  nav ul {
     float: right;
-    line-height: 83px;
+    line-height: 105px;
     padding-right: 20px;
-    letter-spacing: 2px;
+    letter-spacing: 1px;
  }
 
 nav ul li {
@@ -32,9 +33,9 @@ nav ul li {
 }
 
 nav ul li a {
-    color: black;
-    font-size: 19px;
-    font-weight: 600;
+    color: whitesmoke;
+    font-size: 22px;
+    font-weight: 800;
 }
 
 nav ul li a:hover {
@@ -43,9 +44,27 @@ nav ul li a:hover {
 }
 
 .active {
-    border-bottom: 1px solid white;
+    border-bottom: 2px solid black;
 }
 /* body */
 body {
-    color: wheat;
+    background-color: wheat;
+}
+
+/* Contact us */ 
+
+table {
+    font-size: 30px;
+}
+
+#table {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 40px;
+}
+
+#map {
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
