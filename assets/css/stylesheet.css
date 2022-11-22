@@ -14,7 +14,7 @@
     float: left;
 }
  nav {
-    height: 120px;
+    height: 130px;
     background-color: grey;
     background-image: url(../images/quin-abby-head-2.jpg);
     background-position: center;
@@ -55,8 +55,14 @@ body {
    flex-direction: column;
    min-height: 100vh;
 }
-h3 {
-    color: white;
+
+p {
+    padding: 20px;
+    font-size: 30px;
+}
+
+h3, h2 {
+    padding: 5px;
 }
 
 /* Footer */ 
