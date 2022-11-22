@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Karla:ital,wght@0,500;1,400&family=Merriweather:ital@1&display=swap');
+
 * {
     margin: 0;
     padding: 0;
@@ -5,6 +7,7 @@
     list-style: none;
     text-align: center;
 }
+
 /* header */
 #logo {
     padding-left: 30px;
@@ -14,22 +17,23 @@
     color: whitesmoke;
     float: left;
 }
- nav {
+
+nav {
     height: 130px;
     background-color: grey;
     background-image: url(../images/quin-abby-head-2.jpg);
     background-position: center;
-    background-size:cover;
+    background-size: cover;
     background-repeat: no-repeat;
     background-blend-mode: darken;
- }
+}
 
- nav ul {
+nav ul {
     float: right;
     line-height: 125px;
     padding-right: 20px;
     letter-spacing: 4px;
- }
+}
 
 nav ul li {
     display: inline;
@@ -49,12 +53,19 @@ nav ul li a:hover {
 .active {
     border-bottom: 2px solid black;
 }
+
 /* body */
 body {
     background-color: wheat;
-   display: flex;
-   flex-direction: column;
-   min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+
+    background-image: url('../images/body-img-1.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-blend-mode: darken;
 }
 
 p {
@@ -63,11 +74,12 @@ p {
     font-weight: 600;
 }
 
-h3, h2 {
+h3,
+h2 {
     padding: 5px;
 }
 
-/* Footer */ 
+/* Footer */
 
 
 
@@ -77,13 +89,13 @@ footer {
     padding: 20px;
     padding-bottom: 25px;
     color: white;
-    margin-top:auto;
+    margin-top: auto;
     font-size: 25px;
 
     background-color: grey;
     background-image: url(../images/quin-abby-head-2.jpg);
     background-position: center;
-    background-size:cover;
+    background-size: cover;
     background-repeat: no-repeat;
 }
 
@@ -91,7 +103,8 @@ footer a {
     font-size: 40px;
     color: whitesmoke;
 }
-/* Contact us */ 
+
+/* Contact us */
 
 table {
     font-size: 30px;
@@ -104,6 +117,7 @@ table {
     justify-content: space-around;
     align-items: center;
     padding: 20px;
+    background-color: whitesmoke;
 }
 
 iframe {
@@ -114,20 +128,15 @@ iframe {
     display: flex;
     flex-direction: flex;
     justify-content: center;
-    
+
 }
+
 #form {
-background-color: lightgrey;
-margin: 50px;
-text-align: center;
-padding: 50px 40px 50px 40px;
-}
-
-
-body  {
-    background-image: url('../images/body-img-1.jpg');
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-blend-mode: darken;
+    background-color: whitesmoke;
+    font-size: 16px;
+    color: black;
+    font-family: 'merriweather', sans-serif;
+    text-align: center;
+    padding: 50px;
+    margin: 50px;
 }

@@ -80,6 +80,7 @@
         </div>
     </div>
     <br>
+    <!--Input is not Accessible-->
     <div id="flex-container">
     <div id="form">
     <h1>Book a tour guide for your visit</h1>
@@ -95,7 +96,7 @@
 
         <p>How many people are in your group?</p>
         <input type="radio" id="one" name="group-size" value="one">
-        <label for="people">1</label>
+        <label for="people" id="one">1</label>
 
         <input type="radio" id="two" name="group-size" value="two">
         <label for="people">2</label>
@@ -122,8 +123,8 @@
         <p>Does your group have any disabilities or learning difficulties we should know about?</p>
         <p>If so please state in the box below</p>
        
-        <label for="disabilities" id="disabilities"></label>
-        <textarea name="disabilities" id="disabilities" rows="12px" cols="30px"></textarea>
+        <label for="textarea" id="textarea"></label>
+        <textarea name="textarea" id="textarea" rows="12px" cols="30px"></textarea>
 
         <input type="submit">
 
