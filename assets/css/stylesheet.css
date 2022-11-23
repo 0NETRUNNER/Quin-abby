@@ -21,7 +21,7 @@
 nav {
     height: 130px;
     background-color: grey;
-    background-image: url(../images/quin-abby-head-2.jpg);
+    background-image: url(../images/quin-abby-head-2.webp);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -93,7 +93,7 @@ footer {
     font-size: 25px;
 
     background-color: grey;
-    background-image: url(../images/quin-abby-head-2.jpg);
+    background-image: url(../images/quin-abby-head-2.webp);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
