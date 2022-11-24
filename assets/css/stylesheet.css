@@ -137,6 +137,14 @@ iframe {
     margin: 50px;
 }
 
+input {
+    font-size: 20px;
+}
+label {
+    font-size: 20px;
+    font-weight: 400;
+}
+
 /* Gallery */ 
 
 .row {
