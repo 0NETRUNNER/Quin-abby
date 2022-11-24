@@ -97,8 +97,8 @@
     <div id="form">
     <h1>Book a tour guide for your visit</h1>
     <form method="POST" action="https://formdump.codeinstitute.net/" target="_blank">
-        <label for="fname">Full Name</label>
-        <input class="text-input" id="fname" name="full_name" type="text" placeholder="John Doe" required>
+        <label for="full_name">Full Name</label>
+        <input class="text-input" id="full_name" name="full_name" type="text" placeholder="John Doe" required>
 
         <label for="age">Your age</label>
         <input type="number" id="age" name="age" placeholder="Age" step="2" min="16" max="90" required>
@@ -107,43 +107,40 @@
         <input id="email" type="email" name="email_address" placeholder="Johndoe@hotmail.ie" required>
 
         <p>How many people are in your group?</p>
-        <input type="radio" id="one" name="group-size" value="one">
-        <label for="people" id="one">1</label>
+        <input type="radio" id="1" name="group_size" value="1">
+        <label for="1">1</label>
 
-        <input type="radio" id="two" name="group-size" value="two">
-        <label for="people">2</label>
+        <input type="radio" id="two" name="group_size" value="two">
+        <label for="two">2</label>
 
-        <input type="radio" id="three" name="group-size" value="three">
-        <label for="people">3-5</label>
+        <input type="radio" id="three" name="group_size" value="three">
+        <label for="three">3-5</label>
 
-        <input type="radio" id="six" name="group-size" value="six">
-        <label for="people">6+</label>
+        <input type="radio" id="six" name="group_size" value="six">
+        <label for="six">6+</label>
         <br>
         <label for="tour-time">Choose a time for your tour:</label>
-
-        <input type="datetime-local" id="tour-time"
-               name="tour-time"
-               min="2022-011-14T00:00" max="2023-06-01T00:00" required>
+        <input type="datetime-local" id="tour-time" name="tour-time">
 
         <p>Are you a returning Visitor?</p>
-        <input type="checkbox" name="here-before" value="yes">
-        <label for="here_before">Yes</label>
+        <input type="checkbox" name="here_before" value="yes" id="here_before_yes">
+        <label for="here_before_yes">Yes</label>
 
-        <input type="checkbox" name="here-before" value="No">
-        <label for="here-before">No</label>
+        <input type="checkbox" name="here_before" value="No" id="here_before_no">
+        <label for="here_before_no">No</label>
 
         <p>Does your group have any disabilities or learning difficulties we should know about?</p>
         <p>If so please state in the box below</p>
        
-        <label for="textarea" id="textarea"></label>
-        <textarea name="textarea" id="textarea" rows="12px" cols="30px"></textarea>
+        <label for="textarea"></label>
+        <textarea name="textarea" id="textarea" rows="12" cols="30"></textarea>
 
         <input type="submit">
 
         <input type="reset">
     </form>
     </div>
-    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2411.2586564958997!2d-8.865786307483384!3d52.817701661799!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x485b6c1e45234107%3A0xbdc73365e8e02f95!2sQuin%20Friary!5e0!3m2!1sen!2sie!4v1666988207070!5m2!1sen!2sie" title="Google maps location of the Quin Abby" width="100%" height="600px" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2411.2586564958997!2d-8.865786307483384!3d52.817701661799!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x485b6c1e45234107%3A0xbdc73365e8e02f95!2sQuin%20Friary!5e0!3m2!1sen!2sie!4v1666988207070!5m2!1sen!2sie" title="Google maps location of the Quin Abby" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
     </div>
 
 <footer>
