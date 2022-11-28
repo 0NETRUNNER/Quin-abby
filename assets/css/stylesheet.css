@@ -128,7 +128,7 @@ iframe {
 }
 
 #form {
-    background-color: rgba(239, 239, 240, .4);
+    background-color: rgba(239, 239, 240, .5);
     font-size: 16px;
     color: black;
     font-family: 'merriweather', sans-serif;
@@ -154,7 +154,6 @@ label {
     padding: 0 4px;
 }
 
-/* Create four equal columns that sits next to each other */
 .column {
     flex: 25%;
     max-width: 25%;
@@ -170,7 +169,6 @@ label {
 }
 
 /* media queries */
-/* Gallery */
 @media screen and (max-width: 768px) {
     .column {
         flex: 50%;
@@ -211,13 +209,20 @@ label {
     table {
         font-size: 20px;
     }
-    
+    #form {
+        margin: 5px;
+        padding: 5;
+    }
     #form h1 {
      font-size: 18px;
     }
+    #form p {
+        font-size: 25px;
+        font-weight: 200;
+    }
 
     input {
-        font-size: 10px;
+        font-size: 15px;
     }
 }
 
