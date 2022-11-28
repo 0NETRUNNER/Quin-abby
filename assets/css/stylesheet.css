@@ -128,7 +128,7 @@ iframe {
 }
 
 #form {
-    background-color: rgba(239,239,240,.4);
+    background-color: rgba(239, 239, 240, .4);
     font-size: 16px;
     color: black;
     font-family: 'merriweather', sans-serif;
@@ -140,46 +140,90 @@ iframe {
 input {
     font-size: 20px;
 }
+
 label {
     font-size: 20px;
     font-weight: 400;
 }
 
-/* Gallery */ 
+/* Gallery */
 
 .row {
     display: flex;
     flex-wrap: wrap;
     padding: 0 4px;
-  }
-  
-  /* Create four equal columns that sits next to each other */
-  .column {
+}
+
+/* Create four equal columns that sits next to each other */
+.column {
     flex: 25%;
     max-width: 25%;
     padding: 0 4px;
-  }
-  
-  .column img {
+}
+
+.column img {
     margin-top: 8px;
     vertical-align: middle;
     width: 100%;
     height: auto;
     border: 2px solid black;
-  }
+}
 
-/* media queries */ 
-/* Gallery */ 
-@media screen and (max-width: 900px) {
+/* media queries */
+/* Gallery */
+@media screen and (max-width: 768px) {
     .column {
-      flex: 50%;
-      max-width: 50%;
+        flex: 50%;
+        max-width: 50%;
     }
-  }
 
-  @media screen and (max-width: 600px) {
-    .column {
-      flex: 100%;
-      max-width: 100%;
+    #logo {
+        font-size: 30px;
     }
-  }
+
+    nav {
+        height: 125px;
+    }
+
+    nav ul li a {
+        font-size: 20px
+    }
+
+    footer {
+        font-size: 10px;
+        height: fit-content;
+    }
+
+    footer a {
+        font-size: 15px;
+    }
+
+    h1,
+    h2,
+    h3 {
+        font-size: 20px;
+    }
+
+    p {
+        font-size: 15px;
+    }
+
+    table {
+        font-size: 20px;
+    }
+    
+    #form h1 {
+     font-size: 18px;
+    }
+
+    input {
+        font-size: 10px;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .column {
+        flex: 100%;
+        max-width: 100%;
+    }
+}
