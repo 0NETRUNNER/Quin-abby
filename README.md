@@ -92,7 +92,7 @@ The 360 Ariel video Was found on youtube and I edited it to take the sound off a
   * Two of the Gallery photos are photoshopped and edited with a blood moon and a normal moon.
 
 * Contact Page 
-  * On the Conact page you can see the Opening Times of the Abbey.
+  * On the Contact page you can see the Opening Times of the Abbey.
   * You can see the phone number and email address for the Abbey.
   * The location is on the right side of the page beside the Form.
   * You can sign up for a tour guide of the Abbey.
@@ -102,5 +102,30 @@ The 360 Ariel video Was found on youtube and I edited it to take the sound off a
   * In the footer I have supplied links to Facebook and Twitter.
   * I have supplied links to my very own Github Account and Linkedin.
 
+# Accessibility
+
+# Technologies Used
+ * languages used
+   * HTML and CSS were used to create this website
+
+ * Frameworks, Libraries & Programs Used.
+   * Balsamiq - Used to create wireframes.
+   * Paint - Used to create wireframes
+   * Git - For version Control.
+   * Github - To save amd store the files for the website. 
+   * Google Fonts - To import the fonts used on the website.
+   * Font awesome - For the iconography on the website.
+   * Google Dev Tools - To troubleshoot and test features, solve issues with responsiveness and styling.
+   * Tiny PNG - to compress Images. 
+   * ILOVEIMG - to resize Images.
+   * AM I Resposnsive? - To show the Website image on a range of devices.
+   * Youtube - For the video on the home page.
+     
 
 # Testing 
+
+
+# Deployment 
+
+
+# Credits 
