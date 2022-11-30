@@ -66,7 +66,7 @@ body {
 
 p {
     padding: 20px;
-    font-size: 30px;
+    font-size: 20px;
     font-weight: 600;
 }
 
@@ -209,13 +209,16 @@ label {
     table {
         font-size: 20px;
     }
+
     #form {
         margin: 5px;
         padding: 5;
     }
+
     #form h1 {
-     font-size: 18px;
+        font-size: 18px;
     }
+
     #form p {
         font-size: 25px;
         font-weight: 200;
@@ -224,11 +227,76 @@ label {
     input {
         font-size: 15px;
     }
+    
+    iframe {
+        margin: auto;
+    }
+    #flex-container {
+        flex-direction: column;
+       }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 420px) {
     .column {
         flex: 100%;
         max-width: 100%;
     }
+
+    #logo {
+        font-size: 15px;
+        padding-left: 10px;
+        line-height: 140px;
+    }
+
+    nav ul li a {
+        font-size: 10px;
+        letter-spacing: normal;
+        line-height: 140px;
+    }
+    body {
+        min-height: 65vh;
+    }
+    video {
+        min-height:65vh;
+    }
+    h1 {
+        font-size: 20px;
+    }
+
+    h2 {
+        font-size: 15px;
+    }
+
+    p {
+        font-size: 14px;
+    }
+
+    footer {
+        height: 100px;
+        
+    }
+
+    footer h1,
+    h2 {
+        font-size: 15px;
+    }
+
+    footer a {
+        font-size: 20px;
+        padding: 2px;
+    }
+
+    table {
+        font-size: 10px;
+        
+    }
+
+    iframe {
+    margin: auto;
+    }
+
+    #flex-container {
+        flex-direction: column;
+       }
+
 }
