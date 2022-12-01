@@ -28,7 +28,10 @@ ___
 
 * [Testing] 
 
+* [Deployment]
+
 * [Credits]
+
   * [Code Used] 
   * [Content]
   * [Media]
@@ -67,9 +70,22 @@ All images were taken by myself.
 The 360 Ariel video Was found on youtube and I edited it to take the sound off and make it shorter.
 
 # Wireframes
-![wireframe1](./assets/images/wireframe1.png)
-![wireframe1](./assets/images/wireframe2.png)
-![wireframe3](./assets/images/wireframe3.png)
+* This a wireframe of my home page.
+  * ![Wireframe-1](./assets/images/bas-wireframe-1.png)
+
+* This a wireframe of my about page.
+  * ![Wireframe-2](./assets/images/bas-wireframe-2.png)
+
+* This a wireframe of my gallery page.  
+  * ![Wireframe-3](./assets/images/bas-wireframe-3.png)
+
+* This a wireframe of my contact page.  
+  * ![Wireframe-4](./assets/images/bas-wireframe-4.png)
+
+* These are quick wireframes I made using paint at the very start of my project.  
+  * ![wireframe1](./assets/images/wireframe1.png)
+  * ![wireframe1](./assets/images/wireframe2.png)
+  * ![wireframe3](./assets/images/wireframe3.png)
 
 # Features 
 
@@ -118,7 +134,6 @@ The 360 Ariel video Was found on youtube and I edited it to take the sound off a
   * In the footer I have supplied links to Facebook and Twitter.
   * I have supplied links to my very own Github Account and Linkedin.
 
-# Accessibility
 
 # Technologies Used
  * languages used
@@ -139,8 +154,8 @@ The 360 Ariel video Was found on youtube and I edited it to take the sound off a
 
 
 # Testing 
-
-
+ * No errros were found using the [w3c html validator](https://validator.w3.org/nu/)
+ * No errors were found using the [w3c CSS jigsaw](https://jigsaw.w3.org/css-validator/)
 # Deployment 
  
 I Deployed the site on Github Pages - [The Quin Abbey](https://dylanp400.github.io/Quin-abby/index.html)
