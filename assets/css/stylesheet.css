@@ -236,7 +236,7 @@ label {
        }
 }
 
-@media screen and (min-width:150px) and (max-width: 650px) {
+@media screen and (max-width: 650px) {
     .column {
         flex: 100%;
         max-width: 100%;
@@ -248,13 +248,22 @@ label {
         line-height: 140px;
     }
 
+   
+   nav {
+    height: 125px;
+    
+   }
+   nav ul li { 
+    
+   }
     nav ul li a {
         font-size: 10px;
         letter-spacing: normal;
         line-height: 140px;
+        
     }
     body {
-        min-height: 65vh;
+        width: 100vw;
     }
     video {
         min-height:65vh;
@@ -290,6 +299,12 @@ label {
         font-size: 10px;
         
     }
+
+    input {
+        font-size: 10px;
+    }
+    
+
 
     iframe {
     margin: auto;
