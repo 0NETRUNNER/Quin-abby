@@ -1,10 +1,10 @@
 # The Quin Abbey 
 **The Quin Abbey** is a old Friary in Quin Village County Clare. I have picked this location because of its history and made a responsive website for it where you can see a 360 video of the Abbey on the home page, there is a about page with history, facts and myths of the Abbey. I have also Added a Gallery with many photos of outside and inside of the Abbey. On the contact page it has Opening times, the location and a form to book a tour a tour guide.
 
-Photo goes here from am i resposive.
 
+![My webstie on AmIresponsive](./assets/images/am-i-responsive.png)
 
- [View the Quin Abbey on Github pages](https://dylanp400.github.io/Quin-abby/index.html)
+ [View the Quin Abbey live website on Github pages](https://dylanp400.github.io/Quin-abby/index.html)
 
 ___ 
 
@@ -15,8 +15,6 @@ ___
   * User Stories
 
 * [Design]
-  * [Color Scheme]
-  * [Typograpghy]
   * [Imagery]
   * [Wireframes]
 
@@ -69,6 +67,9 @@ All images were taken by myself.
 The 360 Ariel video Was found on youtube and I edited it to take the sound off and make it shorter.
 
 # Wireframes
+![wireframe1](./assets/images/wireframe1.png)
+![wireframe1](./assets/images/wireframe2.png)
+![wireframe3](./assets/images/wireframe3.png)
 
 # Features 
 
@@ -76,29 +77,44 @@ The 360 Ariel video Was found on youtube and I edited it to take the sound off a
    * Featured on all four pages, the navigation bar is fully responsive and includes links to the Home page, About, Gallery and the Contact page
 
    * This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
+     * ![nav](./assets/images/nav-screenshot.png)
 
 * Index page Video 
    * The Index page has a video of the Abbey taken from a drone it shows every part of the Abbey from the sky.
+     * ![index video](./assets/images/video-screenshot.png)
 
 * About page 
   * The About page has all the information of the Abbey through out the years like owners and restorations.
+     * ![about page](./assets/images/about-screenhot.png)
+   
 
   * I have also inculded  Myths and Tales that surround the Abbey.
 
+
+     * ![myths](./assets/images/about-scrrenshot-2.png)
+
 * Gallery
   * For the Gallery I went out to the Quin Abbey myself and took some photos
+     * ![Gallery1](./assets/images/gallery-screenshot-1.png)
   * I got many photos of the Abbey but decided to use 21 photos for my 
    gallery.
+     * ![Gallery2](./assets/images/gallery-screenshot-2.png)
+     * ![Gallery3](./assets/images/gallery-screenshot-3.png)
   * Two of the Gallery photos are photoshopped and edited with a blood moon and a normal moon.
 
 * Contact Page 
   * On the Contact page you can see the Opening Times of the Abbey.
+    * ![opening times](./assets/images/opening-times-1.png)
   * You can see the phone number and email address for the Abbey.
+    * ![contact info](./assets/images/contact-info.png)
   * The location is on the right side of the page beside the Form.
+    * ![location](./assets/images/location.png)
   * You can sign up for a tour guide of the Abbey.
+    * ![sign up form](./assets/images/signup-form.png)
 
 * Footer
   * The footer has the name of the Abbey and links for social media. 
+    *![footer](./assets/images/footer.png)
   * In the footer I have supplied links to Facebook and Twitter.
   * I have supplied links to my very own Github Account and Linkedin.
 
@@ -120,7 +136,7 @@ The 360 Ariel video Was found on youtube and I edited it to take the sound off a
    * ILOVEIMG - to resize Images.
    * AM I Resposnsive? - To show the Website image on a range of devices.
    * Youtube - For the video on the home page.
-     
+
 
 # Testing 
 
