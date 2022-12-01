@@ -3,6 +3,11 @@
 
 
 ![My webstie on AmIresponsive](./assets/images/am-i-responsive.png)
+![GitHub last commit](https://img.shields.io/github/last-commit/DylanP400/Quin-abby)
+![GitHub contributors](https://img.shields.io/github/contributors/DylanP400/Quin-abby)
+![GitHub language count](https://img.shields.io/github/languages/count/DylanP400/Quin-abby)
+![GitHub top language](https://img.shields.io/github/languages/top/DylanP400/Quin-abby)
+![W3C Validation](https://img.shields.io/w3c-validation/html?targetUrl=https%3A%2F%2Fvalidator.w3.org%2Fnu%2F%23textarea)
 
  [View the Quin Abbey live website on Github pages](https://dylanp400.github.io/Quin-abby/index.html)
 
@@ -151,6 +156,7 @@ The 360 Ariel video Was found on youtube and I edited it to take the sound off a
    * [ILOVEIMG](https://www.iloveimg.com/) - to resize Images.
    * [AM I Resposnsive?](https://amiresponsive.co.uk/) - To show the Website image on a range of devices.
    * [Youtube](https://www.youtube.com/) - For the video on the home page.
+   * [Shields](https://shields.io/) - For the buttons at the top of my Readme
 
 
 # Testing 
@@ -189,3 +195,26 @@ To clone the repository:
 
 # Credits 
 
+## Code Used
+For my Gallery I found grid system on [W3 Schools Gallery image grid](https://www.w3schools.com/howto/howto_css_image_grid_responsive.asp)
+
+## Content
+ * I learned how to use flex box from three sources
+   * [The Odin Project](https://www.theodinproject.com/)
+   * [Kevin Powell](https://www.youtube.com/@KevinPowell)
+   * [Web Dev simplified](https://www.youtube.com/@WebDevSimplified)
+
+ * I learned how to make a header and footer from two sources.
+   * [Kevin Powell](https://www.youtube.com/@KevinPowell)
+   * [Web Dev simplified](https://www.youtube.com/@WebDevSimplified)  
+ * I have to give a Huge thank you to [Kera](https://github.com/kera-cudmore) for the template of the README and all the tips that came with it.
+    
+
+
+## Media 
+ * All photos have been taken and edited by myself
+ * I got the index video off youtube I could not email the owner to ask for permission but I left a comment underneath asking for permission. [Orignal video](https://www.youtube.com/watch?v=6EgQBH_0Ppc)
+
+ ## Acknowledgments
+ * I would like to thank the Tutor support system for helping me when I was stuck or unsure.
+ * I would like to thank every student on slack that helped me with problems and explained my errors to me.
