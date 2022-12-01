@@ -142,6 +142,34 @@ The 360 Ariel video Was found on youtube and I edited it to take the sound off a
 
 
 # Deployment 
+ 
+I Deployed the site on Github Pages - [The Quin Abbey](https://dylanp400.github.io/Quin-abby/index.html)
+
+To Depoy a Website using Github Pages you need too
+
+1. Login (or signup) to Github.
+2. Go to the repository for this project, [DylanP400/Quin-abby](https://github.com/DylanP400/Quin-abby)
+3. Click the settings button.
+4. Select pages in the left hand navigation menu.
+5. From the source dropdown select main branch and press save.
+6. The site has been deployed, the site will take a few minutes to be up and running
+
+## Local Deployment 
+### How to Fork
+To fork the repository:
+1. Log in to Github.
+2. Go to the repository for this project, [DylanP400/Quin-abby](https://github.com/DylanP400/Quin-abby)
+3. Click the Fork button in the top right corner.
+
+### How to clone 
+To clone the repository:
+
+1. Log in to GitHub.
+2. Go to the repository for this project, [DylanP400/Quin-abby](https://github.com/DylanP400/Quin-abby)
+3. Click on the code button, select whether you would like to clone with HTTPS, SSH or GitHub CLI and copy the link shown.
+4. Open the terminal in your code editor and change the current working directory to the location you want to use for the cloned directory.
+5. Type 'git clone' into the terminal and then paste the link you copied in step 3. Press enter.
+
 
 
 # Credits 
