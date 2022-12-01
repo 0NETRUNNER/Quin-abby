@@ -57,7 +57,7 @@ nav ul li a:hover {
 
 /* body */
 body {
-    background-color: wheat;
+    background-color: whitesmoke;
     display: flex;
     flex-direction: column;
     min-height: 100vh;
@@ -96,7 +96,7 @@ footer {
 
 footer a {
     font-size: 40px;
-    color: whitesmoke;
+    color: white;
 }
 
 /* Contact us */
@@ -112,7 +112,7 @@ table {
     justify-content: space-around;
     align-items: center;
     padding: 20px;
-    background-color: wheat;
+    background-color: whitesmoke;
 }
 
 
