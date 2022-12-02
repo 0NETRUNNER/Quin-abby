@@ -2,7 +2,7 @@
 **The Quin Abbey** is a old Friary in Quin Village County Clare. I have picked this location because of its history and made a responsive website for it where you can see a 360 video of the Abbey on the home page, there is a about page with history, facts and myths of the Abbey. I have also Added a Gallery with many photos of outside and inside of the Abbey. On the contact page it has Opening times, the location and a form to book a tour guide.
 
 
-![My webstie on AmIresponsive](./assets/images/am-i-responsive.png)
+![My webstie on AmIresponsive]
 ![GitHub last commit](https://img.shields.io/github/last-commit/DylanP400/Quin-abby)
 ![GitHub contributors](https://img.shields.io/github/contributors/DylanP400/Quin-abby)
 ![GitHub language count](https://img.shields.io/github/languages/count/DylanP400/Quin-abby)
@@ -112,30 +112,30 @@ The 360 Ariel video Was found on youtube and I edited it to take the sound off a
   * I have also inculded  Myths and Tales that surround the Abbey.
 
 
-     * ![myths](./assets/images/about-scrrenshot-2.png)
+     * 
 
 * Gallery
   * For the Gallery I went out to the Quin Abbey myself and took some photos
-     * ![Gallery1](./assets/images/gallery-screenshot-1.png)
+     * 
   * I got many photos of the Abbey but decided to use 21 photos for my 
    gallery.
-     * ![Gallery2](./assets/images/gallery-screenshot-2.png)
-     * ![Gallery3](./assets/images/gallery-screenshot-3.png)
+     * 
+     * 
   * Two of the Gallery photos are photoshopped and edited with a blood moon and a normal moon.
 
 * Contact Page 
   * On the Contact page you can see the Opening Times of the Abbey.
-    * ![opening times](./assets/images/opening-times-1.png)
-  * You can see the phone number and email address for the Abbey.
-    * ![contact info](./assets/images/contact-info.png)
+    * 
+  * You can see the phone number and email address for the Abb y.
+    * 
   * The location is on the right side of the page beside the Form.
     * ![location](./assets/images/location.png)
   * You can sign up for a tour guide of the Abbey.
-    * ![sign up form](./assets/images/signup-form.png)
+    * 
 
 * Footer
   * The footer has the name of the Abbey and links for social media. 
-    *![footer](./assets/images/footer.png)
+    
   * In the footer I have supplied links to Facebook and Twitter.
   * I have supplied links to my very own Github Account and Linkedin.
 
@@ -213,7 +213,7 @@ For my Gallery I found grid system on [W3 Schools Gallery image grid](https://ww
 
 ## Media 
  * All photos have been taken and edited by myself
- * I got the index video off youtube I could not email the owner to ask for permission but I left a comment underneath asking for permission. [Orignal video](https://www.youtube.com/watch?v=6EgQBH_0Ppc)
+ * I got the video on the home page off youtube I could not email the owner to ask for permission but I left a comment underneath asking for permission. [Orignal video](https://www.youtube.com/watch?v=6EgQBH_0Ppc)
 
  ## Acknowledgments
  * I would like to thank the Tutor support system for helping me when I was stuck or unsure.
