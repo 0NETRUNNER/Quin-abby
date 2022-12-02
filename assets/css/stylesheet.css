@@ -78,6 +78,24 @@ h2 {
     padding: 5px;
 }
 
+.heading1 {
+    font-family: 'karla', sans-serif;
+    font-size: 30px;
+    color: black;
+}
+
+.heading2 {
+    font-family: 'karla', sans-serif;
+    font-size: 20px;
+    color: black;
+}
+
+.storys {
+    
+    font-family: 'merriweather', sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+}
 /* Footer */
 
 
@@ -92,6 +110,7 @@ footer {
     margin-top: auto;
     margin-bottom: auto;
     font-size: 15px;
+    font-family: 'karla', sans-serif;
 }
 
 footer a {
@@ -171,6 +190,16 @@ label {
     border: 4px solid black;
     border-radius: 20px;
 }
+
+.img {
+        background-image: url('../images/gallery-8.webp');
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-blend-mode: darken;
+            
+}
+
 
 /* media queries */
 @media screen and (min-width: 651px) and (max-width: 922px) {
