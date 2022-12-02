@@ -1,8 +1,13 @@
 # The Quin Abbey 
-**The Quin Abbey** is a old Friary in Quin Village County Clare. I have picked this location because of its history and made a responsive website for it where you can see a 360 video of the Abbey on the home page, there is a about page with history, facts and myths of the Abbey. I have also Added a Gallery with many photos of outside and inside of the Abbey. On the contact page it has Opening times, the location and a form to book a tour a tour guide.
+**The Quin Abbey** is a old Friary in Quin Village County Clare. I have picked this location because of its history and made a responsive website for it where you can see a 360 video of the Abbey on the home page, there is a about page with history, facts and myths of the Abbey. I have also Added a Gallery with many photos of outside and inside of the Abbey. On the contact page it has Opening times, the location and a form to book a tour guide.
 
 
 ![My webstie on AmIresponsive](./assets/images/am-i-responsive.png)
+![GitHub last commit](https://img.shields.io/github/last-commit/DylanP400/Quin-abby)
+![GitHub contributors](https://img.shields.io/github/contributors/DylanP400/Quin-abby)
+![GitHub language count](https://img.shields.io/github/languages/count/DylanP400/Quin-abby)
+![GitHub top language](https://img.shields.io/github/languages/top/DylanP400/Quin-abby)
+![W3C Validation](https://img.shields.io/w3c-validation/html?targetUrl=https%3A%2F%2Fvalidator.w3.org%2Fnu%2F%23textarea)
 
  [View the Quin Abbey live website on Github pages](https://dylanp400.github.io/Quin-abby/index.html)
 
@@ -10,7 +15,7 @@ ___
 
 
 # Contents
-* [User Experience](#User-Experience-(UX))
+* [User Experience](#UX)
   * [Initial Discussion]
   * User Stories
 
@@ -140,17 +145,18 @@ The 360 Ariel video Was found on youtube and I edited it to take the sound off a
    * HTML and CSS were used to create this website
 
  * Frameworks, Libraries & Programs Used.
-   * Balsamiq - Used to create wireframes.
+   * [Balsamiq](https://balsamiq.com/) - Used to create wireframes.
    * Paint - Used to create wireframes
-   * Git - For version Control.
-   * Github - To save amd store the files for the website. 
-   * Google Fonts - To import the fonts used on the website.
-   * Font awesome - For the iconography on the website.
-   * Google Dev Tools - To troubleshoot and test features, solve issues with responsiveness and styling.
-   * Tiny PNG - to compress Images. 
-   * ILOVEIMG - to resize Images.
-   * AM I Resposnsive? - To show the Website image on a range of devices.
-   * Youtube - For the video on the home page.
+   * [Git](https://git-scm.com/) - For version Control.
+   * [Github](https://github.com/) - To save amd store the files for the website. 
+   * [Google Fonts](https://fonts.google.com/) - To import the fonts used on the website.
+   * [Font awesome](https://fontawesome.com/) - For the iconography on the website.
+   * [Google Dev Tools](https://developer.chrome.com/docs/devtools/) - To troubleshoot and test features, solve issues with responsiveness and styling.
+   * [Tiny PNG](https://tinypng.com/) - to compress Images. 
+   * [ILOVEIMG](https://www.iloveimg.com/) - to resize Images.
+   * [AM I Resposnsive?](https://amiresponsive.co.uk/) - To show the Website image on a range of devices.
+   * [Youtube](https://www.youtube.com/) - For the video on the home page.
+   * [Shields](https://shields.io/) - For the buttons at the top of my Readme
 
 
 # Testing 
@@ -188,3 +194,27 @@ To clone the repository:
 
 
 # Credits 
+
+## Code Used
+For my Gallery I found grid system on [W3 Schools Gallery image grid](https://www.w3schools.com/howto/howto_css_image_grid_responsive.asp)
+
+## Content
+ * I learned how to use flex box from three sources
+   * [The Odin Project](https://www.theodinproject.com/)
+   * [Kevin Powell](https://www.youtube.com/@KevinPowell)
+   * [Web Dev simplified](https://www.youtube.com/@WebDevSimplified)
+
+ * I learned how to make a header and footer from two sources.
+   * [Kevin Powell](https://www.youtube.com/@KevinPowell)
+   * [Web Dev simplified](https://www.youtube.com/@WebDevSimplified)  
+ * I have to give a Huge thank you to [Kera](https://github.com/kera-cudmore) for the template of the README and all the tips that came with it.
+    
+
+
+## Media 
+ * All photos have been taken and edited by myself
+ * I got the index video off youtube I could not email the owner to ask for permission but I left a comment underneath asking for permission. [Orignal video](https://www.youtube.com/watch?v=6EgQBH_0Ppc)
+
+ ## Acknowledgments
+ * I would like to thank the Tutor support system for helping me when I was stuck or unsure.
+ * I would like to thank every student on slack that helped me with problems and explained my errors to me.
