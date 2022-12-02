@@ -199,7 +199,11 @@ label {
         background-blend-mode: darken;
             
 }
-
+ 
+img {
+    width: 100;
+    height: 100;
+}
 
 /* media queries */
 @media screen and (min-width: 651px) and (max-width: 922px) {
