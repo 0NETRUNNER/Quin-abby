@@ -106,16 +106,22 @@ footer {
     padding: 20px;
     padding-bottom: 25px;
     color: white;
-    background-color: gray;
+    background-color: darkgray;
     margin-top: auto;
     margin-bottom: auto;
+    font-weight: 400;
     font-size: 15px;
     font-family: 'karla', sans-serif;
 }
 
 footer a {
     font-size: 40px;
+    color: blue;
+}
+
+footer a:hover {
     color: white;
+    transition: 1s;
 }
 
 /* Contact us */
