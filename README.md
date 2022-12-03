@@ -8,6 +8,14 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/DylanP400/Quin-abby)
 ![GitHub top language](https://img.shields.io/github/languages/top/DylanP400/Quin-abby)
 ![W3C Validation](https://img.shields.io/w3c-validation/html?targetUrl=https%3A%2F%2Fvalidator.w3.org%2Fnu%2F%23textarea)
+<p>
+<a href="http://jigsaw.w3.org/css-validator/check/referer">
+    <img style="border:0;width:88px;height:31px"
+        src="http://jigsaw.w3.org/css-validator/images/vcss-blue"
+        alt="Valid CSS!" />
+    </a>
+</p>
+
 
  [View the Quin Abbey live website on Github pages](https://dylanp400.github.io/Quin-abby/index.html)
 
@@ -163,7 +171,14 @@ The 360 Ariel video Was found on youtube and I edited it to take the sound off a
 
 # Testing 
  * No errros were found using the [w3c html validator](https://validator.w3.org/nu/)
+   * Index ![Index](./assets/images/index-V.png)
+   * About ![About](./assets/images/about-V.png)
+   * Gallery ![Gallery](./assets/images/gallery-V.png)
+   * Contact ![Contact](./assets/images/contact-V.png)
+
  * No errors were found using the [w3c CSS jigsaw](https://jigsaw.w3.org/css-validator/)
+   * CSS 
+     * ![CSS](./assets/images/css-V.png)
 
  ## Lighthouse
  * Home page Desktop
@@ -229,10 +244,13 @@ For my Gallery I found grid system on [W3 Schools Gallery image grid](https://ww
    * [Kevin Powell](https://www.youtube.com/@KevinPowell)
    * [Web Dev simplified](https://www.youtube.com/@WebDevSimplified)
 
+ * All information in my About page was taken from the [Clare County Libary](https://www.clarelibrary.ie/eolas/coclare/places/quininterest.htm)
+
  * I learned how to make a header and footer from two sources.
    * [Kevin Powell](https://www.youtube.com/@KevinPowell)
    * [Web Dev simplified](https://www.youtube.com/@WebDevSimplified)  
- * I have to give a Huge thank you to [Kera](https://github.com/kera-cudmore) for the template of the README and all the tips that came with it.
+
+ * I have to give a huge thank you to [Kera](https://github.com/kera-cudmore) for the template of the README and all the tips that came with it.
     
 
 
@@ -241,5 +259,6 @@ For my Gallery I found grid system on [W3 Schools Gallery image grid](https://ww
  * I got the video on the home page off youtube I could not email the owner to ask for permission but I left a comment underneath asking for permission. [Orignal video](https://www.youtube.com/watch?v=6EgQBH_0Ppc)
 
  ## Acknowledgments
+ * I would like to thank my mentor [Rory](https://github.com/Ri-Dearg) for all the help and advice through out this Project.
  * I would like to thank the Tutor support system for helping me when I was stuck or unsure.
  * I would like to thank every student on slack that helped me with problems and explained my errors to me.
