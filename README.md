@@ -162,6 +162,29 @@ The 360 Ariel video Was found on youtube and I edited it to take the sound off a
 # Testing 
  * No errros were found using the [w3c html validator](https://validator.w3.org/nu/)
  * No errors were found using the [w3c CSS jigsaw](https://jigsaw.w3.org/css-validator/)
+
+ ## Lighthouse
+ * Home page Desktop
+
+   * ![Desktop](./assets/images/lh-index-desktop.png)
+ * Home Page Mobile 
+   * ![Mobile](./assets/images/lh-index-mobile.png)
+
+ * About Page Desktop
+   * ![Desktop](./assets/images/lh-about-desktop.png)
+
+ * About Page Mobile
+   * ![Mobile](./assets/images/lh-about-mobile.png)  
+
+ * Gallery Page Desktop
+   * ![Desktop](./assets/images/lh-gallery-Desktop.png)
+
+ * Gallery page Mobile
+   * ![Mobile](./assets/images/lh-gallery-mobile.png)    
+
+ * Contact Page Desktop
+   * ![Desktop](./assets/images/lh-contact-desktop.png)
+
 # Deployment 
  
 I Deployed the site on Github Pages - [The Quin Abbey](https://dylanp400.github.io/Quin-abby/index.html)
