@@ -2,7 +2,7 @@
 **The Quin Abbey** is a old Friary in Quin Village County Clare. I have picked this location because of its history and made a responsive website for it where you can see a 360 video of the Abbey on the home page, there is a about page with history, facts and myths of the Abbey. I have also Added a Gallery with many photos of outside and inside of the Abbey. On the contact page it has Opening times, the location and a form to book a tour guide.
 
 
-![My webstie on AmIresponsive]
+![My webstie on AmIresponsive](./assets/images/am-i-responsive.png)
 ![GitHub last commit](https://img.shields.io/github/last-commit/DylanP400/Quin-abby)
 ![GitHub contributors](https://img.shields.io/github/contributors/DylanP400/Quin-abby)
 ![GitHub language count](https://img.shields.io/github/languages/count/DylanP400/Quin-abby)
@@ -106,35 +106,37 @@ The 360 Ariel video Was found on youtube and I edited it to take the sound off a
 
 * About page 
   * The About page has all the information of the Abbey through out the years like owners and restorations.
-     * ![about page](./assets/images/about-screenhot.png)
+     * ![about page](./assets/images/about-img-1.png)
    
 
   * I have also inculded  Myths and Tales that surround the Abbey.
 
 
-     * 
+     * ![about page](./assets/images/about-img-2.png)
 
 * Gallery
   * For the Gallery I went out to the Quin Abbey myself and took some photos
-     * 
+     * ![Gallery](./assets/images/gallery-img-1.png)
   * I got many photos of the Abbey but decided to use 21 photos for my 
    gallery.
-     * 
+     * ![Gallery](./assets/images/gallery-img-2.png)
      * 
   * Two of the Gallery photos are photoshopped and edited with a blood moon and a normal moon.
 
 * Contact Page 
   * On the Contact page you can see the Opening Times of the Abbey.
-    * 
-  * You can see the phone number and email address for the Abb y.
-    * 
+    * ![Opening times](./assets/images/openingtimes-img.png)
+  * You can see the phone number and email address for the Abbey.
+    * ![Contact info](./assets/images/contact-info.png)
   * The location is on the right side of the page beside the Form.
     * ![location](./assets/images/location.png)
   * You can sign up for a tour guide of the Abbey.
-    * 
+    * ![Sign up form](./assets/images/signup-form.png)
+  
 
 * Footer
   * The footer has the name of the Abbey and links for social media. 
+    * ![Footer](./assets/images/footer-img.png)
     
   * In the footer I have supplied links to Facebook and Twitter.
   * I have supplied links to my very own Github Account and Linkedin.
