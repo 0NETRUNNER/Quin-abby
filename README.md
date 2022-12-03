@@ -23,27 +23,27 @@ ___
 
 
 # Contents
-* [User Experience](#UX)
+* [User Experience](#User-Experince-(UX))
   * [Initial Discussion]
   * User Stories
 
-* [Design]
+* [Design](#design)
   * [Imagery]
   * [Wireframes]
 
-* [Features]
+* [Features](#features)
   * [General Features on Each Page]
   * [Future Implementions] 
   * [Accessibility]
 
-* [Technologies Used]
+* [Technologies Used](#technologies-used)
   * [Languages Used] 
 
-* [Testing] 
+* [Testing](#testing)
 
-* [Deployment]
+* [Deployment](#deployment)
 
-* [Credits]
+* [Credits](#credits)
 
   * [Code Used] 
   * [Content]
@@ -54,7 +54,7 @@ ___
 
 ___
 
-# User Experience (UX)
+# [User Experience]((UX))
 
 ## Initial Discussion
 The Quin Abbey is a Historic location in Quin County Clare. People can come and see the Abbey all year round.
@@ -76,7 +76,7 @@ The Quin Abbey is a Historic location in Quin County Clare. People can come and 
 * To be allowed to Contact and sign up for a tour guide.
 * to see photos of the Abbey before people come along. 
 
-
+# [Design](#design)
 
 # Imagery
 All images were taken by myself.
@@ -100,7 +100,7 @@ The 360 Ariel video Was found on youtube and I edited it to take the sound off a
   * ![wireframe1](./assets/images/wireframe2.png)
   * ![wireframe3](./assets/images/wireframe3.png)
 
-# Features 
+# [Features](#features)
 
 * Navigation bar 
    * Featured on all four pages, the navigation bar is fully responsive and includes links to the Home page, About, Gallery and the Contact page
@@ -150,7 +150,7 @@ The 360 Ariel video Was found on youtube and I edited it to take the sound off a
   * I have supplied links to my very own Github Account and Linkedin.
 
 
-# Technologies Used
+# [Technologies Used](#technologies-used)
  * languages used
    * HTML and CSS were used to create this website
 
@@ -169,7 +169,7 @@ The 360 Ariel video Was found on youtube and I edited it to take the sound off a
    * [Shields](https://shields.io/) - For the buttons at the top of my Readme
 
 
-# Testing 
+# [Testing](#testing) 
  * No errros were found using the [w3c html validator](https://validator.w3.org/nu/)
    * Index ![Index](./assets/images/index-V.png)
    * About ![About](./assets/images/about-V.png)
@@ -202,7 +202,7 @@ The 360 Ariel video Was found on youtube and I edited it to take the sound off a
  * Contact Page Desktop
    * ![Desktop](./assets/images/lh-contact-desktop.png)
 
-# Deployment 
+# [Deployment](#deployment) 
  
 I Deployed the site on Github Pages - [The Quin Abbey](https://dylanp400.github.io/Quin-abby/index.html)
 
@@ -233,7 +233,7 @@ To clone the repository:
 
 
 
-# Credits 
+# [Credits](#)
 
 ## Code Used
 For my Gallery I found grid system on [W3 Schools Gallery image grid](https://www.w3schools.com/howto/howto_css_image_grid_responsive.asp)
