@@ -244,6 +244,8 @@ To clone the repository:
 
   * For my form I used [Web Dev Simplified](https://www.youtube.com/watch?v=nLxA9froMOs) video on how to make form. I wasnt happy with it and the tips and style I got from Web Dev made it look alot nicer on my page.
 
+  * I learned how to insert a video into the background from [Web Dev Simplified](https://www.youtube.com/watch?v=y9ITxSzjZUc&list=PLQ3vyzwXGsgJnHHoW2Y_JgheqF4o9HMfR&index=17&t=466s). I had my video just placed on the pagee but having it in the background is alot nicer.
+
 ## Content
  * I learned how to use flex box from three sources
    * [The Odin Project](https://www.theodinproject.com/)
