@@ -34,6 +34,7 @@ nav ul {
     line-height: 125px;
     padding-right: 20px;
     letter-spacing: 4px;
+    
 }
 
 nav ul li {
@@ -94,7 +95,7 @@ h2 {
     
     font-family: 'merriweather', sans-serif;
     font-weight: 400;
-    font-size: 20px;
+    font-size: 25px;
 }
 
 .storys2 {
@@ -154,6 +155,7 @@ iframe {
     height: 250px;
 }
 /* Form */ 
+/* form bug  input is out of place on mobile but okay on devtools mobile*/
 .form-container {
     width: 100vw;
     display: flex;
@@ -234,6 +236,13 @@ input {
     border: 4px solid hsl(201, 100%, 50%);
 }
 
+.input-group-2 {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 20px;
+    justify-content: center;
+    gap: 15px;
+}
 .btn{
     padding: 10px 30px;
     width: 100%;
@@ -469,4 +478,15 @@ img {
     .btn {
         font-size: 1em;
     }
+
+    .mobile input {
+        font-size: 1em;
+    }
+
+    .input-group-2 {
+        display: flex;
+        flex-direction: row;
+        margin-bottom: 20px;
+        justify-content: center;
+        gap: 3px;
 }
