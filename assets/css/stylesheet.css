@@ -436,7 +436,37 @@ img {
        }
     
 
-       .login-title {
+    .login-title {
         font-size: 20px;
        }
+    
+       .input-group input {
+        background-color: hsla(201, 100%, 91%, 0.3);
+        border: 4px solid hsl(201, 100%, 6%);
+        outline: none;
+        font-size: 1em;
+        padding: .1em .25em;
+        border-radius: 5px;
+        color: white;
+        font-weight: lighter;
+        
+    }
+    .input-group label {
+        color: white;
+        font-weight: lighter;
+        font-size: 1em;
+        margin-bottom: 7px;
+    }
+
+    .form p {
+        font-size: 1em;
+    }
+
+    .form label {
+        font-size: 1em;
+    }
+
+    .btn {
+        font-size: 1em;
+    }
 }
