@@ -23,7 +23,7 @@ ___
 
 
 # Contents
-* [User Experience](#User-Experince-(UX))
+* [User Experience](#user-experience)
   * [Initial Discussion]
   * User Stories
 
@@ -33,13 +33,13 @@ ___
 
 * [Features](#features)
   * [General Features on Each Page]
-  * [Future Implementions] 
-  * [Accessibility]
 
 * [Technologies Used](#technologies-used)
   * [Languages Used] 
 
 * [Testing](#testing)
+  * Lighthouse
+  * bugs 
 
 * [Deployment](#deployment)
 
@@ -54,14 +54,14 @@ ___
 
 ___
 
-# [User Experience]((UX))
+# [User Experience](#user-experience)
 
 ## Initial Discussion
 The Quin Abbey is a Historic location in Quin County Clare. People can come and see the Abbey all year round.
 
 ### Key information for this site
 * Where you can find the Abbey
-* A 360 Ariel view of the Abbey
+* A 360 ariel view of the Abbey
 * A Gallery with over 20 photos
 * A sign up form for a tour guide
 * Location and Opening Times
@@ -78,11 +78,11 @@ The Quin Abbey is a Historic location in Quin County Clare. People can come and 
 
 # [Design](#design)
 
-# Imagery
+## Imagery
 All images were taken by myself.
-The 360 Ariel video Was found on youtube and I edited it to take the sound off and make it shorter.
+The 360 ariel video Was found on youtube and I edited it to take the sound off and make it shorter.
 
-# Wireframes
+## Wireframes
 * This a wireframe of my home page.
   * ![Wireframe-1](./assets/images/bas-wireframe-1.png)
 
@@ -117,13 +117,13 @@ The 360 Ariel video Was found on youtube and I edited it to take the sound off a
      * ![about page](./assets/images/about-img-1.png)
    
 
-  * I have also inculded  Myths and Tales that surround the Abbey.
+  * I have also inculded Myths and Tales that surround the Abbey.
 
 
      * ![about page](./assets/images/about-img-2.png)
 
 * Gallery
-  * For the Gallery I went out to the Quin Abbey myself and took some photos
+  * For the Gallery I went out to the Quin Abbey and took some photos myself 
      * ![Gallery](./assets/images/gallery-img-1.png)
   * I got many photos of the Abbey but decided to use 21 photos for my 
    gallery.
@@ -139,7 +139,8 @@ The 360 Ariel video Was found on youtube and I edited it to take the sound off a
   * The location is on the right side of the page beside the Form.
     * ![location](./assets/images/location.png)
   * You can sign up for a tour guide of the Abbey.
-    * ![Sign up form](./assets/images/signup-form.png)
+    * ![Sign up form 1](./assets/images/signup-from-1.png)
+    * ![Sign up form 2](./assets/images/signup-from-2.png)
   
 
 * Footer
@@ -156,7 +157,7 @@ The 360 Ariel video Was found on youtube and I edited it to take the sound off a
 
  * Frameworks, Libraries & Programs Used.
    * [Balsamiq](https://balsamiq.com/) - Used to create wireframes.
-   * Paint - Used to create wireframes
+   * [Paint](https://apps.microsoft.com/store/detail/paint/9PCFS5B6T72H?hl=en-us&gl=us) - Used to create wireframes
    * [Git](https://git-scm.com/) - For version Control.
    * [Github](https://github.com/) - To save amd store the files for the website. 
    * [Google Fonts](https://fonts.google.com/) - To import the fonts used on the website.
@@ -179,6 +180,9 @@ The 360 Ariel video Was found on youtube and I edited it to take the sound off a
  * No errors were found using the [w3c CSS jigsaw](https://jigsaw.w3.org/css-validator/)
    * CSS 
      * ![CSS](./assets/images/css-V.png)
+
+
+ ## Bugs    
 
  ## Lighthouse
  * Home page Desktop
@@ -236,7 +240,9 @@ To clone the repository:
 # [Credits](#)
 
 ## Code Used
-For my Gallery I found grid system on [W3 Schools Gallery image grid](https://www.w3schools.com/howto/howto_css_image_grid_responsive.asp)
+  * For my Gallery I found a grid system on [W3 Schools Gallery image grid](https://www.w3schools.com/howto/howto_css_image_grid_responsive.asp)
+
+  * For my form I used [Web Dev Simplified](https://www.youtube.com/watch?v=nLxA9froMOs) video on how to make form. I wasnt happy with it and the tips and style I got from Web Dev made it look alot nicer on my page.
 
 ## Content
  * I learned how to use flex box from three sources
