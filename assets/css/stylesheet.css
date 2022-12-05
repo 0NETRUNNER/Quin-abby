@@ -1,5 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Karla:ital,wght@0,500;1,400&family=Merriweather:ital@1&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Karla:wght@400;500&family=Libre+Baskerville:ital@1&family=Merriweather:ital,wght@0,400;1,300&family=Satisfy&display=swap');
 * {
     margin: 0;
     padding: 0;
@@ -17,6 +16,7 @@
     line-height: 120px;
     color: whitesmoke;
     float: left;
+    font-family: 'Libre Baskerville', serif;
 }
 
 nav {
@@ -27,6 +27,7 @@ nav {
     background-size: cover;
     background-repeat: no-repeat;
     background-blend-mode: darken;
+    font-family: 'Merriweather', serif;
 }
 
 nav ul {
@@ -94,6 +95,7 @@ body {
     color: white;
     padding: 20px;
     margin-top: 100px;
+    font-family: 'Merriweather', serif;
 }
 
 p {
@@ -168,6 +170,8 @@ table {
     font-size: 30px;
     font-weight: 600;
     margin: 40px 20px 40px 20px;
+    font-family: 'Satisfy', cursive;
+
 }
 
 .table {
