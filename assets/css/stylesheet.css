@@ -235,6 +235,10 @@ input {
     margin-bottom: 20px;
 }
 
+.input-group ::placeholder {
+    color: hsla(201, 100%, 91%, 0.8);
+}
+
 .input-group label {
     color: white;
     font-weight: lighter;
@@ -316,7 +320,6 @@ input {
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-    background-blend-mode: darken;
 }
 
 
