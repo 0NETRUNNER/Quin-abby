@@ -191,7 +191,7 @@ iframe {
     background-color: hsla(201, 100%, 6%, 0.6);
     padding: 50px 30px;
     min-width: 200px;
-    width: 50%;
+    width: 100%;
     max-width: 400px;
 
 }
@@ -403,7 +403,7 @@ img {
     .logo {
         font-size: 15px;
         padding-left: 10px;
-        line-height: 140px;
+        line-height: 120px;
     }
 
 
@@ -478,9 +478,13 @@ img {
 
     table {
         font-size: 10px;
-
+    
     }
-
+    
+    .table {
+        display: flex;
+        flex-direction: column;
+    }
 
     iframe {
         margin: auto;
@@ -494,6 +498,11 @@ img {
     .login-title {
         font-size: 20px;
     }
+    .form-container {
+     padding: 10px;
+     width: 100%;
+    }
+
 
     .input-group input {
         background-color: hsla(201, 100%, 91%, 0.3);
