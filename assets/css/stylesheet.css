@@ -399,7 +399,7 @@ img {
     }
 
     .logo {
-        font-size: 15px;
+        font-size: 1.125rem;
         padding-left: 10px;
         line-height: 120px;
     }
@@ -412,7 +412,7 @@ img {
     }
 
     nav ul li a {
-        font-size: 8px;
+        font-size: 0.563rem;
         letter-spacing: normal;
         line-height: 140px;
         padding-right: 5px;
@@ -475,7 +475,7 @@ img {
     }
 
     table {
-        font-size: 10px;
+        font-size: 1.25rem;
     
     }
     
