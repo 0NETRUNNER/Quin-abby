@@ -14,13 +14,11 @@
     padding-left: 30px;
     font-size: 3rem;
     font-weight: 200;
-    line-height: 120px;
     color: whitesmoke;
     font-family: 'Libre Baskerville', serif;
     display: flex;
+    line-height: 130px
 }
-
-
 
 nav {
     height: 130px;
@@ -96,7 +94,7 @@ body {
     font-size: 1.25rem;
     color: white;
     padding: 20px;
-    margin-top: 100px;
+    margin-top: 40px;
     font-family: 'Merriweather', serif;
 }
 /* About page */
@@ -147,11 +145,11 @@ footer {
 
 footer a {
     font-size: 2.5rem;
-    color: blue;
+    color: white;
 }
 
 footer a:hover {
-    color: white;
+    color: red;
     transition: 1s;
 }
 
@@ -537,6 +535,7 @@ img {
 
     .mobile input {
         font-size: 1em;
+        justify-content: center;
     }
 
     .input-group-2 {
