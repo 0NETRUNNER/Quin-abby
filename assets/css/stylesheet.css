@@ -126,7 +126,8 @@ h2 {
 /* Footer */
 
 .footer {
-    color: black;
+    color: whitesmoke;
+    font-weight: 600;
 }
 
 footer {
@@ -134,7 +135,6 @@ footer {
     text-align: center;
     padding: 20px;
     padding-bottom: 25px;
-    color: white;
     background-color: darkgray;
     margin-top: auto;
     margin-bottom: auto;
@@ -316,7 +316,7 @@ input {
 }
 
 .img {
-    background-image: url('../images/body-img-2.jpg');
+    background-image: url('../images/gallery-10.webp');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -480,10 +480,7 @@ img {
         flex-direction: column;
     }
 
-    iframe {
-        margin: auto;
-    }
-
+   
     #flex-container {
         flex-direction: column;
     }
