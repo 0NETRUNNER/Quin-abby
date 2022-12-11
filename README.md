@@ -2,7 +2,7 @@
 **The Quin Abbey** is a old Friary in Quin Village County Clare. I have picked this location because of its history and made a responsive website for it where you can see a 360 video of the Abbey on the home page, there is a about page with history, facts and myths of the Abbey. I have also Added a Gallery with many photos of outside and inside of the Abbey. On the contact page it has Opening times, the location and a form to book a tour guide.
 
 
-![My webstie on AmIresponsive](./assets/images/am-i-responsive.png)
+![My webstie on AmIresponsive]()
 ![GitHub last commit](https://img.shields.io/github/last-commit/DylanP400/Quin-abby)
 ![GitHub contributors](https://img.shields.io/github/contributors/DylanP400/Quin-abby)
 ![GitHub language count](https://img.shields.io/github/languages/count/DylanP400/Quin-abby)
@@ -106,46 +106,46 @@ The 360 ariel video Was found on youtube and I edited it to take the sound off a
    * Featured on all four pages, the navigation bar is fully responsive and includes links to the Home page, About, Gallery and the Contact page
 
    * This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
-     * ![nav](./assets/images/nav-screenshot.png)
+     * ![nav]()
 
 * Index page Video 
    * The Index page has a video of the Abbey taken from a drone it shows every part of the Abbey from the sky.
-     * ![index video](./assets/images/video-screenshot.png)
+     * ![index video]()
 
 * About page 
   * The About page has all the information of the Abbey through out the years like owners and restorations.
-     * ![about page](./assets/images/about-img-1.png)
+     * ![about page]()
    
 
   * I have also inculded Myths and Tales that surround the Abbey.
 
 
-     * ![about page](./assets/images/about-img-2.png)
+     * ![about page]()
 
 * Gallery
   * For the Gallery I went out to the Quin Abbey and took some photos myself 
-     * ![Gallery](./assets/images/gallery-img-1.png)
+     * ![Gallery]()
   * I got many photos of the Abbey but decided to use 21 photos for my 
    gallery.
-     * ![Gallery](./assets/images/gallery-img-2.png)
+     * ![Gallery]()
      * 
   * Two of the Gallery photos are photoshopped and edited with a blood moon and a normal moon.
 
 * Contact Page 
   * On the Contact page you can see the Opening Times of the Abbey.
-    * ![Opening times](./assets/images/openingtimes-img.png)
+    * ![Opening times]()
   * You can see the phone number and email address for the Abbey.
-    * ![Contact info](./assets/images/contact-info.png)
+    * ![Contact info]()
   * The location is on the right side of the page beside the Form.
-    * ![location](./assets/images/location.png)
+    * ![location]()
   * You can sign up for a tour guide of the Abbey.
-    * ![Sign up form 1](./assets/images/signup-from-1.png)
-    * ![Sign up form 2](./assets/images/signup-from-2.png)
+    * ![Sign up form 1]()
+    * ![Sign up form 2]()
   
 
 * Footer
   * The footer has the name of the Abbey and links for social media. 
-    * ![Footer](./assets/images/footer-img.png)
+    * ![Footer]()
     
   * In the footer I have supplied links to Facebook and Twitter.
   * I have supplied links to my very own Github Account and Linkedin.
@@ -242,7 +242,7 @@ To clone the repository:
 ## Code Used
   * For my Gallery I found a grid system on [W3 Schools Gallery image grid](https://www.w3schools.com/howto/howto_css_image_grid_responsive.asp)
 
-  * For my form I used [Web Dev Simplified](https://www.youtube.com/watch?v=nLxA9froMOs) video on how to make form. I wasnt happy with it and the tips and style I got from Web Dev made it look alot nicer on my page.
+  * For my form I used [Web Dev Simplified](https://www.youtube.com/watch?v=nLxA9froMOs) video on how to make form. I was not happy with it and the tips and style I got from Web Dev made it look alot nicer on my page.
 
   * I learned how to insert a video into the background from [Web Dev Simplified](https://www.youtube.com/watch?v=y9ITxSzjZUc&list=PLQ3vyzwXGsgJnHHoW2Y_JgheqF4o9HMfR&index=17&t=466s). I had my video just placed on the pagee but having it in the background is alot nicer.
 
