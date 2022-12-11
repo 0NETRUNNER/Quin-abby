@@ -8,7 +8,9 @@
     text-align: center;
     box-sizing: border-box;
 }
-
+html {
+    min-height: 100%;
+}
 /* header */
 .logo {
     padding-left: 30px;
@@ -17,7 +19,7 @@
     color: whitesmoke;
     font-family: 'Libre Baskerville', serif;
     display: flex;
-    line-height: 130px
+    line-height: 130px;
 }
 
 nav {
@@ -335,7 +337,7 @@ img {
 /* Sign up conirmation */
 
 .container-signup {
-    background-color: hsl(0, 0%, 50%, 0.6);
+    background-color: hsl(0, 0%, 50%, 0.8);
     font-size: 1.25rem;
     color: whitesmoke;
     padding: 20px;
@@ -344,7 +346,7 @@ img {
     display: flex;
     justify-content: center;
     align-self: center;
-    margin: 100px 50px 100px 50px;
+    margin: 400px 250px 400px 250px;
 }
 
 .signup {
@@ -354,7 +356,7 @@ img {
 }
 
 .img2 {
-    background-image: url('../images/gallery-16.webp');
+    background-image: url('../images/gallery-7-bg.webp');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -588,5 +590,9 @@ img {
         border-radius: 5px;
         color: white;
         font-weight: lighter;
+    }
+
+    .container-signup {
+        margin: 400px 50px 400px 50px;
     }
 }
