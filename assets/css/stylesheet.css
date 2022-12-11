@@ -126,7 +126,7 @@ h2 {
 /* Footer */
 
 .footer {
-    color: whitesmoke;
+    color: black;
     font-weight: 600;
 }
 
@@ -316,7 +316,7 @@ input {
 }
 
 .img {
-    background-image: url('../images/gallery-10.webp');
+    background-image: url('../images/gallery-10-1.webp');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
