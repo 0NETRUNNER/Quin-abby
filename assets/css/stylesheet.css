@@ -64,7 +64,8 @@ body {
     min-height: 100vh;
 
 }
-/* Home page container */ 
+
+/* Home page video */
 
 .full-screen-video-container {
     position: relative;
@@ -89,6 +90,7 @@ body {
     z-index: -1;
 }
 
+/* Home page introduction */
 .full-screen-video-content {
     background-color: hsl(0, 0%, 50%, 0.8);
     font-size: 1.25rem;
@@ -97,6 +99,7 @@ body {
     margin-top: 40px;
     font-family: 'Merriweather', serif;
 }
+
 /* About page */
 p {
     padding: 20px;
@@ -153,7 +156,7 @@ footer a:hover {
     transition: 1s;
 }
 
-/* Contact us */
+/* Contact us page */
 
 table {
     font-size: 1.875rem;
@@ -177,7 +180,6 @@ iframe {
 }
 
 /* Form */
-/* form bug  input is out of place on mobile but okay on devtools mobile*/
 .form-container {
     width: 100vw;
     display: flex;
@@ -269,7 +271,8 @@ input {
     justify-content: center;
     gap: 15px;
 }
-/* Form button */ 
+
+/* Form button */
 .btn {
     padding: 10px 30px;
     width: 100%;
@@ -292,7 +295,7 @@ input {
     background-color: hsla(201, 100%, 91%, 0.5);
 }
 
-/* Gallery */
+/* Gallery page */
 
 .row {
     display: flex;
@@ -322,12 +325,36 @@ input {
     background-repeat: no-repeat;
 }
 
-
-
-
 img {
     width: auto;
     height: auto;
+}
+
+/* Sign up conirmation */
+
+.container-signup {
+    background-color: hsl(0, 0%, 50%, 0.6);
+    font-size: 1.25rem;
+    color: whitesmoke;
+    padding: 20px;
+    margin-top: 40px;
+    font-family: 'Merriweather', serif;
+    display: flex;
+    justify-content: center;
+    align-self: center;
+}
+
+.signup {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.img2 {
+    background-image: url('../images/gallery-16.webp');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 
@@ -414,10 +441,10 @@ img {
         padding-right: 5px;
         margin-right: 0;
     }
-    
+
 
     .full-screen-video-content {
-        
+
         font-size: 1.25rem;
         padding: 20px;
         margin-top: 15px;
@@ -458,6 +485,7 @@ img {
     footer {
         height: 100px;
 
+
     }
 
     footer h1,
@@ -472,15 +500,15 @@ img {
 
     table {
         font-size: 1.25rem;
-    
+
     }
-    
+
     .table {
         display: flex;
         flex-direction: column;
     }
 
-   
+
     #flex-container {
         flex-direction: column;
     }
@@ -489,9 +517,10 @@ img {
     .login-title {
         font-size: 20px;
     }
+
     .form-container {
-     padding: 10px;
-     width: 100%;
+        padding: 10px;
+        width: 100%;
     }
 
 
