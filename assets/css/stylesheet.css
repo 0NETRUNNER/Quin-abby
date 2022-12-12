@@ -8,9 +8,7 @@
     text-align: center;
     box-sizing: border-box;
 }
-html {
-    min-height: 100%;
-}
+
 /* header */
 .logo {
     padding-left: 30px;
@@ -161,11 +159,14 @@ footer a:hover {
 
 /* Contact us page */
 
+/* Opening times and Contact information */
 table {
     font-size: 1.875rem;
     font-weight: 600;
     margin: 40px 20px 40px 20px;
     font-family: 'Satisfy', cursive;
+    text-decoration: none;
+    color: black;
 
 }
 
@@ -177,7 +178,16 @@ table {
     background-color: whitesmoke;
 }
 
+table a {
+    color: black;
+}
 
+.table a:hover {
+    color: red;
+    transition: 5s;
+}
+
+/* Location */
 iframe {
     height: 250px;
 }
@@ -299,7 +309,6 @@ input {
 }
 
 /* Gallery page */
-
 .row {
     display: flex;
     flex-wrap: wrap;
@@ -322,6 +331,7 @@ input {
     box-shadow: 3px 4px 4px black;
 }
 
+/* Background image */
 .img {
     background-image: url('../images/gallery-10-1.webp');
     background-position: center;
@@ -334,8 +344,7 @@ img {
     height: auto;
 }
 
-/* Sign up conirmation */
-
+/* Sign up confirmation */
 .container-signup {
     background-color: hsl(0, 0%, 50%, 0.8);
     font-size: 1.25rem;
@@ -355,6 +364,7 @@ img {
     justify-content: center;
 }
 
+/* Backgroud image */
 .img2 {
     background-image: url('../images/gallery-7-bg.webp');
     background-position: center;
@@ -362,15 +372,18 @@ img {
     background-repeat: no-repeat;
 }
 
-
 /* media queries */
 
+/* Media queries for medium sized screens small laptops and tablets */
 @media screen and (min-width: 651px) and (max-width: 922px) {
+    /* Gallery */
+
     .column {
         flex: 50%;
         max-width: 50%;
     }
 
+    /* header */
     .logo {
         font-size: 1.875rem;
     }
@@ -383,6 +396,7 @@ img {
         font-size: 1.25rem;
     }
 
+    /* Footer */
     footer {
         font-size: 0.625rem;
         height: fit-content;
@@ -402,10 +416,11 @@ img {
         font-size: 0.938rem;
     }
 
+    /* Contact us */
+
     table {
         font-size: 1.25rem;
     }
-
 
     .heading1 {
         font-size: 1.25rem;
@@ -420,12 +435,16 @@ img {
     }
 }
 
+/* Media queries for Mobiles and small screen sizes */
 @media screen and (max-width: 650px) {
+
+    /* Gallery */
     .column {
         flex: 100%;
         max-width: 100%;
     }
 
+    /* Header */
     .logo {
         font-size: 1.125rem;
         padding-left: 10px;
@@ -436,7 +455,6 @@ img {
     nav {
         height: 110px;
         align-items: center;
-
     }
 
     nav ul li a {
@@ -447,9 +465,8 @@ img {
         margin-right: 0;
     }
 
-
+    /* Index page content */
     .full-screen-video-content {
-
         font-size: 1.25rem;
         padding: 20px;
         margin-top: 15px;
@@ -463,6 +480,7 @@ img {
         min-height: 65vh;
     }
 
+    /* About page */
     .heading1 {
         font-size: 1.25rem;
     }
@@ -495,6 +513,7 @@ img {
         font-size: 0.875rem;
     }
 
+    /* Footer */
     footer {
         height: 100px;
 
@@ -511,6 +530,8 @@ img {
         padding: 2px;
     }
 
+    /* Contact us page */
+
     table {
         font-size: 1.25rem;
 
@@ -526,7 +547,7 @@ img {
         flex-direction: column;
     }
 
-
+    /* Sign Up form */
     .login-title {
         font-size: 1.25rem;
     }
@@ -535,7 +556,6 @@ img {
         padding: 10px;
         width: 100%;
     }
-
 
     .input-group input {
         background-color: hsla(201, 100%, 91%, 0.3);
@@ -592,6 +612,7 @@ img {
         font-weight: lighter;
     }
 
+    /* Sign up confirmation page */
     .container-signup {
         margin: 400px 50px 400px 50px;
     }
