@@ -187,6 +187,10 @@ table a {
     transition: 5s;
 }
 
+.open {
+    font-size: 1.875rem;
+    font-family: 'merriweather', sans-serif;
+}
 /* Location */
 iframe {
     height: 250px;
@@ -531,7 +535,9 @@ img {
     }
 
     /* Contact us page */
-
+    .open {
+        font-size: 0.938rem;
+    }
     table {
         font-size: 1.25rem;
 
