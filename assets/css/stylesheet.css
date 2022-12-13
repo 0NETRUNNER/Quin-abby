@@ -124,8 +124,8 @@ h2 {
 }
 
 .heading2 {
-font-size: 1.25rem;
-font-family: 'karla' sans-serif;
+    font-size: 1.25rem;
+    font-family: 'karla', sans-serif;
 }
 
 .storys {
@@ -209,6 +209,7 @@ table a {
     background-color: whitesmoke;
     padding: 20px;
 }
+
 /* Location */
 iframe {
     height: 250px;
@@ -395,7 +396,7 @@ img {
     background-repeat: no-repeat;
 }
 
-/* Butto to go back to the top of the page */ 
+/* Butto to go back to the top of the page */
 
 .gotopbtn {
     position: fixed;
@@ -574,7 +575,7 @@ img {
     .open {
         font-size: 0.938rem;
     }
-    
+
     table {
         font-size: 1.25rem;
 
