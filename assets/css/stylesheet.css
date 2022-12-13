@@ -205,6 +205,8 @@ table a {
 .open {
     font-size: 1.875rem;
     font-family: 'merriweather', sans-serif;
+    background-color: whitesmoke;
+    padding: 20px;
 }
 /* Location */
 iframe {
