@@ -267,29 +267,51 @@ The 360 ariel video Was found on youtube and I edited it to take the sound off a
    * CSS 
    * ![CSS](./assets/images/css-V.png)
 
+ ## [Bugs](#bugs)
 
- ## [Bugs](#bugs)    
+   * 
 
  ## [Lighthouse](#lighthouse)
- * Home page Desktop.
-   * ![Desktop](./assets/images/lh-index-desktop.png)
- * Home Page Mobile. 
-   * ![Mobile](./assets/images/lh-index-mobile.png)
+ * Home page desktop.
 
- * About Page Desktop.
-   * ![Desktop](./assets/images/lh-about-desktop.png)
+   * ![Desktop](./assets/images/rm-lh-index-desktop.png)
 
- * About Page Mobile.
-   * ![Mobile](./assets/images/lh-about-mobile.png)  
+ * Home page mobile. 
 
- * Gallery Page Desktop.
-   * ![Desktop](./assets/images/lh-gallery-Desktop.png)
+   * ![Mobile](./assets/images/rm-lh-index-mobile.png)
 
- * Gallery page Mobile.
-   * ![Mobile](./assets/images/lh-gallery-mobile.png)    
+ * About page desktop.
 
- * Contact Page Desktop.
-   * ![Desktop](./assets/images/lh-contact-desktop.png)
+   * ![Desktop](./assets/images/rm-lh-about-desktop.png)
+
+ * About page mobile.
+
+   * ![Mobile](./assets/images/rm-lh-about-mobile.png)  
+
+ * Gallery page desktop.
+
+   * ![Desktop](./assets/images/rm-lh-gallery-desktop.png)
+
+ * Gallery page mobile.
+
+   * ![Mobile](./assets/images/rm-lh-gallery-mobile.png)    
+
+ * Contact page desktop.
+ 
+   * ![Desktop](./assets/images/rm-lh-contact-desktop.png)
+
+* Contact page mobile.
+
+   * ![Mobile](./assets/images/rm-lh-contact-mobile.png)
+
+* Form confirmation page desktop.
+
+   * ![Desktop](./assets/images/rm-lh-signup-desktop.png)
+
+* Form confirmation page mobile.
+
+   * ![Mobile](./assets/images/rm-lh-signup-mobile.png)
+
 
 # [Deployment](#deployment) 
  
