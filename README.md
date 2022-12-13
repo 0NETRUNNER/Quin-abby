@@ -8,13 +8,12 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/DylanP400/Quin-abby)
 ![GitHub top language](https://img.shields.io/github/languages/top/DylanP400/Quin-abby)
 ![W3C Validation](https://img.shields.io/w3c-validation/html?targetUrl=https%3A%2F%2Fvalidator.w3.org%2Fnu%2F%23textarea)
-<p>
 <a href="http://jigsaw.w3.org/css-validator/check/referer">
     <img style="border:0;width:88px;height:31px"
         src="http://jigsaw.w3.org/css-validator/images/vcss-blue"
         alt="Valid CSS!" />
     </a>
-</p>
+
 
 
  [View the Quin Abbey live website on Github pages](https://dylanp400.github.io/Quin-abby/index.html)
@@ -123,19 +122,19 @@ The 360 ariel video Was found on youtube and I edited it to take the sound off a
 
      * ![home video](./assets/images/index-video-rm.png)
 
-* Home page content 
+* Home page information.
 
      * ![Home-page-content](./assets/images/index-info-rm.png)
 
-* Home page desktop view 
+* Desktop view.
 
      * ![Desktop](./assets/images/index-desktop-rm.png)
 
-* Home page mobile view
+* Mobile view.
 
      * ![mobile view](./assets/images/index-mobile-rm.jpg)
 
-* About page 
+* About page. 
   * The About page has all the information of the Abbey through out the years like owners and restorations.
 
      * ![about page](./assets/images/about-info-rm.png)
@@ -145,31 +144,32 @@ The 360 ariel video Was found on youtube and I edited it to take the sound off a
 
      * ![about page](./assets/images/about-info-2-rm.png)
 
-*  Desktop view
+*  Desktop view.
 
      * ![Desktop](./assets/images/about-desktop-rm.png)
 
-*  Mobile view
+*  Mobile view.
 
      * ![Mobile](./assets/images/about-mobile-rm.jpg)
 
-* Gallery
+* Gallery.
   * For the Gallery I went out to the Quin Abbey and took some photos myself. I got many photos of the Abbey but decided to use 21 photos for my 
    gallery.
-  * Desktop view 
+
+  * Desktop view.
 
      * ![Gallery](./assets/images/gallery-desktop-rm.png)
 
-  * Tablet view   
+  * Tablet view.  
 
      * ![Gallery](./assets/images/gallery-img-2-rm.png)
 
-  * Mobile view   
+  * Mobile view.  
 
      * ![Gallery](./assets/images/gallery-3-rm.png)
   
 
-* Contact Page 
+* Contact Page. 
   * On the Contact page you can see the Opening Times and contact information of the Abbey.
     * ![Opening times](./assets/images/open-times-rm.png)
 
@@ -184,29 +184,30 @@ The 360 ariel video Was found on youtube and I edited it to take the sound off a
   * The location is at the bottom underneath the form.
     * ![location](./assets/images/location-rm.png)
 
-* Desktop
+* Desktop view.
 
     * ![Desktop](./assets/images/contact-desktop-rm.png)
 
-* Mobile
+* Mobile view.
 
     * ![Mobile](./assets/images/contact-mobile-1.jpg)
 
-* Form sign up confirmation page
+* Form sign up confirmation page.
 
   * Once you click submit on the tour guide form a new tab will open with a page explaining you have signed up for a tour guide.
   
     * ![Confirmation](./assets/images/signup-confirmation-rm.png)
 
-* Desktop 
+* Desktop view.
 
     * ![Desktop](./assets/images/form-confirm-desktop-rm.png)
 
-* Mobile 
+* Mobile view.
 
     * ![Mobile](./assets/images/signup-confirmation-mobile-rm.jpg)
 
-* Footer
+* Footer.
+
   * The footer has the name of the Abbey and links for social media and I have supplied links to my very own Github Account and Linkedin.
 
     * ![Footer](./assets/images/footer-rm.png)
@@ -225,13 +226,20 @@ The 360 ariel video Was found on youtube and I edited it to take the sound off a
     * ![Button](./assets/images/backtotop-rm.png)
 
 
+* Favicon.
+  
+  * I used one of the photos I took for the Favicon for the Abbey.
+   
+   * ![Favicon](./assets/images/apple-icon-180x180.png)
+
+
 # [Technologies Used](#technologies-used)
  ## [languages used](#languages-used)
-   * HTML and CSS were used to create this website
+   * HTML and CSS were used to create this website.
 
  ## [Frameworks, Libraries & Programs Used](#frameworks-libraries--programs-used)
    * [Balsamiq](https://balsamiq.com/) - Used to create wireframes.
-   * [Paint](https://apps.microsoft.com/store/detail/paint/9PCFS5B6T72H?hl=en-us&gl=us) - Used to create wireframes
+   * [Paint](https://apps.microsoft.com/store/detail/paint/9PCFS5B6T72H?hl=en-us&gl=us) - Used to create wireframes.
    * [Git](https://git-scm.com/) - For version Control.
    * [Github](https://github.com/) - To save amd store the files for the website. 
    * [Google Fonts](https://fonts.google.com/) - To import the fonts used on the website.
@@ -241,7 +249,8 @@ The 360 ariel video Was found on youtube and I edited it to take the sound off a
    * [ILOVEIMG](https://www.iloveimg.com/) - to resize Images.
    * [AM I Resposnsive?](https://amiresponsive.co.uk/) - To show the Website image on a range of devices.
    * [Youtube](https://www.youtube.com/) - For the video on the home page.
-   * [Shields](https://shields.io/) - For the buttons at the top of my Readme
+   * [Shields](https://shields.io/) - For the buttons at the top of my Readme.
+   * [Favicon](https://www.favicon-generator.org/) - To make a Favicon for the website.
 
 
 # [Testing](#testing) 
@@ -254,7 +263,7 @@ The 360 ariel video Was found on youtube and I edited it to take the sound off a
 
    * Contact ![Contact](./assets/images/contact-V.png)
 
- * No errors were found using the [w3c CSS jigsaw](https://jigsaw.w3.org/css-validator/)
+ * No errors were found using the [w3c CSS jigsaw](https://jigsaw.w3.org/css-validator/).
    * CSS 
    * ![CSS](./assets/images/css-V.png)
 
@@ -262,31 +271,31 @@ The 360 ariel video Was found on youtube and I edited it to take the sound off a
  ## [Bugs](#bugs)    
 
  ## [Lighthouse](#lighthouse)
- * Home page Desktop
+ * Home page Desktop.
    * ![Desktop](./assets/images/lh-index-desktop.png)
- * Home Page Mobile 
+ * Home Page Mobile. 
    * ![Mobile](./assets/images/lh-index-mobile.png)
 
- * About Page Desktop
+ * About Page Desktop.
    * ![Desktop](./assets/images/lh-about-desktop.png)
 
- * About Page Mobile
+ * About Page Mobile.
    * ![Mobile](./assets/images/lh-about-mobile.png)  
 
- * Gallery Page Desktop
+ * Gallery Page Desktop.
    * ![Desktop](./assets/images/lh-gallery-Desktop.png)
 
- * Gallery page Mobile
+ * Gallery page Mobile.
    * ![Mobile](./assets/images/lh-gallery-mobile.png)    
 
- * Contact Page Desktop
+ * Contact Page Desktop.
    * ![Desktop](./assets/images/lh-contact-desktop.png)
 
 # [Deployment](#deployment) 
  
-I Deployed the site on Github Pages - [The Quin Abbey](https://dylanp400.github.io/Quin-abby/index.html)
+I Deployed the site on Github Pages - [The Quin Abbey](https://dylanp400.github.io/Quin-abby/index.html).
 
-To Depoy a Website using Github Pages you need too
+To Depoy a Website using Github Pages you need too.
 
 1. Login (or signup) to Github.
 2. Go to the repository for this project, [DylanP400/Quin-abby](https://github.com/DylanP400/Quin-abby)
@@ -317,33 +326,33 @@ To clone the repository:
 # [Credits](#credits)
 
 ## [Code Used](#code-used)
-  * For my Gallery I found a grid system on [W3 Schools Gallery image grid](https://www.w3schools.com/howto/howto_css_image_grid_responsive.asp)
+  * For my Gallery I found a grid system on [W3 Schools Gallery image grid](https://www.w3schools.com/howto/howto_css_image_grid_responsive.asp).
 
   * For my form I used [Web Dev Simplified](https://www.youtube.com/watch?v=nLxA9froMOs) video on how to make form. I was not happy with it and the tips and style I got from Web Dev made it look alot nicer on my page.
 
   * I learned how to insert a video into the background from [Web Dev Simplified](https://www.youtube.com/watch?v=y9ITxSzjZUc&list=PLQ3vyzwXGsgJnHHoW2Y_JgheqF4o9HMfR&index=17&t=466s). I had my video just placed on the pagee but having it in the background is alot nicer.
 
-  * For the button that brings you back to the top of the page I followed a video from [Dark Code](https://www.youtube.com/watch?v=Vef9bxTilCU&t=11s)
+  * For the button that brings you back to the top of the page I followed a video from [Dark Code](https://www.youtube.com/watch?v=Vef9bxTilCU&t=11s).
 
 ## [Content](#content)
- * I learned how to use flex box from three sources
-   * [The Odin Project](https://www.theodinproject.com/)
-   * [Kevin Powell](https://www.youtube.com/@KevinPowell)
-   * [Web Dev simplified](https://www.youtube.com/@WebDevSimplified)
+ * I learned how to use flex box from three sources.
+   * [The Odin Project](https://www.theodinproject.com/).
+   * [Kevin Powell](https://www.youtube.com/@KevinPowell).
+   * [Web Dev simplified](https://www.youtube.com/@WebDevSimplified).
 
- * All information in my About page was taken from the [Clare County Libary](https://www.clarelibrary.ie/eolas/coclare/places/quininterest.htm)
+ * All information in my About page was taken from the [Clare County Libary](https://www.clarelibrary.ie/eolas/coclare/places/quininterest.htm).
 
  * I learned how to make a header and footer from two sources.
-   * [Kevin Powell](https://www.youtube.com/@KevinPowell)
-   * [Web Dev simplified](https://www.youtube.com/@WebDevSimplified)  
+   * [Kevin Powell](https://www.youtube.com/@KevinPowell).
+   * [Web Dev simplified](https://www.youtube.com/@WebDevSimplified).
 
  * I have to give a huge thank you to [Kera](https://github.com/kera-cudmore) for the template of the README and all the tips that came with it.
     
 
 
 ## [Media](#media) 
- * All photos have been taken and edited by myself
- * I got the video on the home page off youtube I could not email the owner to ask for permission but I left a comment underneath asking for permission. [Orignal video](https://www.youtube.com/watch?v=6EgQBH_0Ppc)
+ * All photos have been taken and edited by myself.
+ * I got the video on the home page off youtube I could not email the owner to ask for permission but I left a comment underneath asking for permission. [Orignal video](https://www.youtube.com/watch?v=6EgQBH_0Ppc).
 
  ## [Acknowledgments](#acknowledgments)
  * I would like to thank my mentor [Rory](https://github.com/Ri-Dearg) for all the help and advice through out this Project.
