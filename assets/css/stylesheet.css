@@ -120,6 +120,7 @@ h2 {
 .heading1 {
     font-size: 2.5rem;
     font-family: 'karla', sans-serif;
+    padding: 20px 0 10px 0;
 }
 
 .heading2 {
