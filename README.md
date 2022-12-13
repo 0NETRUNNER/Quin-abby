@@ -24,31 +24,33 @@ ___
 
 # Contents
 * [User Experience](#user-experience)
-  * [Initial Discussion]
-  * User Stories
+  * [Initial Discussion](#initial-discussion)
+  * [User Stories](#user-stories)
 
 * [Design](#design)
-  * [Imagery]
-  * [Wireframes]
+  * [Imagery](#imagery)
+  * [Wireframes](#wireframes)
 
 * [Features](#features)
-  * [General Features on Each Page]
+  * [General features on each page](#general-features-on-each-page)
 
 * [Technologies Used](#technologies-used)
-  * [Languages Used] 
+  * [Languages Used](#languages-used)
+  * [Frameworks, Libraries & Programs Used](#frameworks-libraries--programs-used)
 
 * [Testing](#testing)
-  * Lighthouse
-  * bugs 
+  * [Lighthouse](#lighthouse)
+  * [bugs](#bugs) 
 
 * [Deployment](#deployment)
+  * [Local deplyoment](#local-deployment)
 
 * [Credits](#credits)
 
-  * [Code Used] 
-  * [Content]
-  * [Media]
-  * [Acknowledgments]  
+  * [Code Used](#code-used)
+  * [Content](#content)
+  * [Media](#media)
+  * [Acknowledgments](#acknowledgments)  
 
 
 
@@ -56,7 +58,7 @@ ___
 
 # [User Experience](#user-experience)
 
-## Initial Discussion
+## [Initial Discussion](#initial-discussion)
 The Quin Abbey is a Historic location in Quin County Clare. People can come and see the Abbey all year round.
 
 ### Key information for this site
@@ -78,11 +80,11 @@ The Quin Abbey is a Historic location in Quin County Clare. People can come and 
 
 # [Design](#design)
 
-## Imagery
+## [Imagery](#imagery)
 All images were taken by myself.
 The 360 ariel video Was found on youtube and I edited it to take the sound off and make it shorter.
 
-## Wireframes
+## [Wireframes](#wireframes)
 * This a wireframe of my home page.
   * ![Wireframe-1](./assets/images/bas-wireframe-1.png)
 
@@ -101,6 +103,8 @@ The 360 ariel video Was found on youtube and I edited it to take the sound off a
   * ![wireframe3](./assets/images/wireframe3.png)
 
 # [Features](#features)
+
+## [General features on each page](#general-features-on-each-page)
 
 * Navigation bar 
    * Featured on all four pages, the navigation bar is fully responsive and includes links to the Home page, About, Gallery and the Contact page
@@ -152,10 +156,10 @@ The 360 ariel video Was found on youtube and I edited it to take the sound off a
 
 
 # [Technologies Used](#technologies-used)
- * languages used
+ ## [languages used](#languages-used)
    * HTML and CSS were used to create this website
 
- * Frameworks, Libraries & Programs Used.
+ ## [Frameworks, Libraries & Programs Used](#frameworks-libraries--programs-used)
    * [Balsamiq](https://balsamiq.com/) - Used to create wireframes.
    * [Paint](https://apps.microsoft.com/store/detail/paint/9PCFS5B6T72H?hl=en-us&gl=us) - Used to create wireframes
    * [Git](https://git-scm.com/) - For version Control.
@@ -182,11 +186,10 @@ The 360 ariel video Was found on youtube and I edited it to take the sound off a
      * ![CSS](./assets/images/css-V.png)
 
 
- ## Bugs    
+ ## [Bugs](#bugs)    
 
- ## Lighthouse
+ ## [Lighthouse](#lighthouse)
  * Home page Desktop
-
    * ![Desktop](./assets/images/lh-index-desktop.png)
  * Home Page Mobile 
    * ![Mobile](./assets/images/lh-index-mobile.png)
@@ -219,7 +222,8 @@ To Depoy a Website using Github Pages you need too
 5. From the source dropdown select main branch and press save.
 6. The site has been deployed, the site will take a few minutes to be up and running
 
-## Local Deployment 
+## [Local Deployment](#local-deployment) 
+
 ### How to Fork
 To fork the repository:
 1. Log in to Github.
@@ -237,16 +241,16 @@ To clone the repository:
 
 
 
-# [Credits](#)
+# [Credits](#credits)
 
-## Code Used
+## [Code Used](#code-used)
   * For my Gallery I found a grid system on [W3 Schools Gallery image grid](https://www.w3schools.com/howto/howto_css_image_grid_responsive.asp)
 
   * For my form I used [Web Dev Simplified](https://www.youtube.com/watch?v=nLxA9froMOs) video on how to make form. I was not happy with it and the tips and style I got from Web Dev made it look alot nicer on my page.
 
   * I learned how to insert a video into the background from [Web Dev Simplified](https://www.youtube.com/watch?v=y9ITxSzjZUc&list=PLQ3vyzwXGsgJnHHoW2Y_JgheqF4o9HMfR&index=17&t=466s). I had my video just placed on the pagee but having it in the background is alot nicer.
 
-## Content
+## [Content](#content)
  * I learned how to use flex box from three sources
    * [The Odin Project](https://www.theodinproject.com/)
    * [Kevin Powell](https://www.youtube.com/@KevinPowell)
@@ -262,11 +266,11 @@ To clone the repository:
     
 
 
-## Media 
+## [Media](#media) 
  * All photos have been taken and edited by myself
  * I got the video on the home page off youtube I could not email the owner to ask for permission but I left a comment underneath asking for permission. [Orignal video](https://www.youtube.com/watch?v=6EgQBH_0Ppc)
 
- ## Acknowledgments
+ ## [Acknowledgments](#acknowledgments)
  * I would like to thank my mentor [Rory](https://github.com/Ri-Dearg) for all the help and advice through out this Project.
  * I would like to thank the Tutor support system for helping me when I was stuck or unsure.
  * I would like to thank every student on slack that helped me with problems and explained my errors to me.
