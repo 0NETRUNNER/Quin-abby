@@ -263,6 +263,8 @@ The 360 ariel video Was found on youtube and I edited it to take the sound off a
 
    * Contact ![Contact](./assets/images/contact-V.png)
 
+   * Form confirmation ![Form](./assets/images/signup-v.png)
+
  * No errors were found using the [w3c CSS jigsaw](https://jigsaw.w3.org/css-validator/).
    * CSS 
    * ![CSS](./assets/images/css-V.png)
