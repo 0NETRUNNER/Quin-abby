@@ -2,7 +2,7 @@
 **The Quin Abbey** is a old Friary in Quin Village County Clare. I have picked this location because of its history and made a responsive website for it where you can see a 360 video of the Abbey on the home page, there is a about page with history, facts and myths of the Abbey. I have also Added a Gallery with many photos of outside and inside of the Abbey. On the contact page it has Opening times, the location and a form to book a tour guide.
 
 
-![My webstie on AmIresponsive]()
+![My webstie on AmIresponsive](./assets/images/am-i-responsive.png)
 ![GitHub last commit](https://img.shields.io/github/last-commit/DylanP400/Quin-abby)
 ![GitHub contributors](https://img.shields.io/github/contributors/DylanP400/Quin-abby)
 ![GitHub language count](https://img.shields.io/github/languages/count/DylanP400/Quin-abby)
@@ -107,52 +107,94 @@ The 360 ariel video Was found on youtube and I edited it to take the sound off a
 ## [General features on each page](#general-features-on-each-page)
 
 * Navigation bar 
-   * Featured on all four pages, the navigation bar is fully responsive and includes links to the Home page, About, Gallery and the Contact page
+   * Featured on all five pages, the navigation bar is fully responsive and includes links to the Home, About, Gallery, Contact and the Form confirmation page.
 
-   * This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
-     * ![nav]()
+   * This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘home’ button.
 
-* Index page Video 
-   * The Index page has a video of the Abbey taken from a drone it shows every part of the Abbey from the sky.
-     * ![index video]()
+     * ![nav](./assets/images/header-rm.png)
+
+   * When you hover over the nav links they will turn red and It has a white line underneath to show which page you are currently on.
+
+     * ![nav](./assets/images/header-icon-hover-rm.png) 
+
+
+* Home page Video 
+   * The Home page has a video of the Abbey taken from a drone as a background image it shows every part of the Abbey from the sky.
+
+     * ![home video](./assets/images/index-video-rm.png)
+
+* Home page content 
+
+     * ![Home-page-content](./assets/images/index-info-rm.png)
+
+* Home page mobile view
+
+     * ![mobile view](./assets/images/index-mobile-rm.jpg)
 
 * About page 
   * The About page has all the information of the Abbey through out the years like owners and restorations.
-     * ![about page]()
+
+     * ![about page](./assets/images/about-info-rm.png)
    
 
   * I have also inculded Myths and Tales that surround the Abbey.
 
+     * ![about page](./assets/images/about-info-2-rm.png)
 
-     * ![about page]()
+* About page mobile view
+
+     * ![Mobile](./assets/images/about-mobile-rm.jpg)
 
 * Gallery
-  * For the Gallery I went out to the Quin Abbey and took some photos myself 
-     * ![Gallery]()
-  * I got many photos of the Abbey but decided to use 21 photos for my 
+  * For the Gallery I went out to the Quin Abbey and took some photos myself. I got many photos of the Abbey but decided to use 21 photos for my 
    gallery.
-     * ![Gallery]()
-     * 
-  * Two of the Gallery photos are photoshopped and edited with a blood moon and a normal moon.
+  * Desktop view 
 
-* Contact Page 
-  * On the Contact page you can see the Opening Times of the Abbey.
-    * ![Opening times]()
-  * You can see the phone number and email address for the Abbey.
-    * ![Contact info]()
-  * The location is on the right side of the page beside the Form.
-    * ![location]()
-  * You can sign up for a tour guide of the Abbey.
-    * ![Sign up form 1]()
-    * ![Sign up form 2]()
+     * ![Gallery](./assets/images/gallery-1-rm.png)
+
+  * Tablet view   
+
+     * ![Gallery](./assets/images/gallery-img-2-rm.png)
+
+  * Mobile view   
+
+     * ![Gallery](./assets/images/gallery-3-rm.png)
   
 
+* Contact Page 
+  * On the Contact page you can see the Opening Times and contact information of the Abbey.
+    * ![Opening times](./assets/images/open-times-rm.png)
+
+  * You can sign up for a tour guide of the Abbey.
+    * ![Sign up form 1](./assets/images/signup-1-rm.png)
+    * ![Sign up form 2](./assets/images/signup-2-rm.png)
+  
+  * The location is at the bottom underneath the form.
+    * ![location](./assets/images/location-rm.png)
+
+* Form sign up confirmation page
+
+  * Once you click submit on the tour guide form a new tab will open with a page explaining you have signed up for a tour guide.
+  
+    * ![Confirmation](./assets/images/signup-confirmation-rm.png)
+
 * Footer
-  * The footer has the name of the Abbey and links for social media. 
-    * ![Footer]()
+  * The footer has the name of the Abbey and links for social media and I have supplied links to my very own Github Account and Linkedin.
+
+    * ![Footer](./assets/images/footer-rm.png)
+
+    * ![footer-icon](./assets/images/footer-icons-rm.png)
     
-  * In the footer I have supplied links to Facebook and Twitter.
-  * I have supplied links to my very own Github Account and Linkedin.
+  * The footer has the same hover effect as my header/nav.
+
+    * ![footer-icon-hover](./assets/images/footer-icons-hover-rm.png) 
+
+
+* Back to top button.
+
+  * The About, Gallery and Contact pages have a button to bring you back up to the top of the page. I left this feature out of the Home page and Form confirmation page because you can only scroll a small bit.
+
+    * ![Button](./assets/images/backtotop-rm.png)
 
 
 # [Technologies Used](#technologies-used)
@@ -177,13 +219,16 @@ The 360 ariel video Was found on youtube and I edited it to take the sound off a
 # [Testing](#testing) 
  * No errros were found using the [w3c html validator](https://validator.w3.org/nu/)
    * Index ![Index](./assets/images/index-V.png)
+
    * About ![About](./assets/images/about-V.png)
+
    * Gallery ![Gallery](./assets/images/gallery-V.png)
+
    * Contact ![Contact](./assets/images/contact-V.png)
 
  * No errors were found using the [w3c CSS jigsaw](https://jigsaw.w3.org/css-validator/)
    * CSS 
-     * ![CSS](./assets/images/css-V.png)
+   * ![CSS](./assets/images/css-V.png)
 
 
  ## [Bugs](#bugs)    
