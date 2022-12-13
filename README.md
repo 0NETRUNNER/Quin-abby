@@ -119,7 +119,7 @@ The 360 ariel video Was found on youtube and I edited it to take the sound off a
 
 
 * Home page Video 
-   * The Home page has a video of the Abbey taken from a drone as a background image it shows every part of the Abbey from the sky.
+   * The Home page has a video of the Abbey taken from a drone as a background video it shows every part of the Abbey from the sky.
 
      * ![home video](./assets/images/index-video-rm.png)
 
@@ -294,6 +294,8 @@ To clone the repository:
   * For my form I used [Web Dev Simplified](https://www.youtube.com/watch?v=nLxA9froMOs) video on how to make form. I was not happy with it and the tips and style I got from Web Dev made it look alot nicer on my page.
 
   * I learned how to insert a video into the background from [Web Dev Simplified](https://www.youtube.com/watch?v=y9ITxSzjZUc&list=PLQ3vyzwXGsgJnHHoW2Y_JgheqF4o9HMfR&index=17&t=466s). I had my video just placed on the pagee but having it in the background is alot nicer.
+
+  * For the button that brings you back to the top of the page I followed a video from [Dark Code](https://www.youtube.com/watch?v=Vef9bxTilCU&t=11s)
 
 ## [Content](#content)
  * I learned how to use flex box from three sources
