@@ -127,6 +127,10 @@ The 360 ariel video Was found on youtube and I edited it to take the sound off a
 
      * ![Home-page-content](./assets/images/index-info-rm.png)
 
+* Home page desktop view 
+
+     * ![Desktop](./assets/images/index-desktop-rm.png)
+
 * Home page mobile view
 
      * ![mobile view](./assets/images/index-mobile-rm.jpg)
@@ -141,7 +145,11 @@ The 360 ariel video Was found on youtube and I edited it to take the sound off a
 
      * ![about page](./assets/images/about-info-2-rm.png)
 
-* About page mobile view
+*  Desktop view
+
+     * ![Desktop](./assets/images/about-desktop-rm.png)
+
+*  Mobile view
 
      * ![Mobile](./assets/images/about-mobile-rm.jpg)
 
@@ -150,7 +158,7 @@ The 360 ariel video Was found on youtube and I edited it to take the sound off a
    gallery.
   * Desktop view 
 
-     * ![Gallery](./assets/images/gallery-1-rm.png)
+     * ![Gallery](./assets/images/gallery-desktop-rm.png)
 
   * Tablet view   
 
@@ -165,6 +173,10 @@ The 360 ariel video Was found on youtube and I edited it to take the sound off a
   * On the Contact page you can see the Opening Times and contact information of the Abbey.
     * ![Opening times](./assets/images/open-times-rm.png)
 
+  * The contact times also have a red hover effect.
+
+    * ![Hover](./assets/images/contact-hover-rm.png)  
+
   * You can sign up for a tour guide of the Abbey.
     * ![Sign up form 1](./assets/images/signup-1-rm.png)
     * ![Sign up form 2](./assets/images/signup-2-rm.png)
@@ -172,11 +184,27 @@ The 360 ariel video Was found on youtube and I edited it to take the sound off a
   * The location is at the bottom underneath the form.
     * ![location](./assets/images/location-rm.png)
 
+* Desktop
+
+    * ![Desktop](./assets/images/contact-desktop-rm.png)
+
+* Mobile
+
+    * ![Mobile](./assets/images/contact-mobile-1.jpg)
+
 * Form sign up confirmation page
 
   * Once you click submit on the tour guide form a new tab will open with a page explaining you have signed up for a tour guide.
   
     * ![Confirmation](./assets/images/signup-confirmation-rm.png)
+
+* Desktop 
+
+    * ![Desktop](./assets/images/form-confirm-desktop-rm.png)
+
+* Mobile 
+
+    * ![Mobile](./assets/images/signup-confirmation-mobile-rm.jpg)
 
 * Footer
   * The footer has the name of the Abbey and links for social media and I have supplied links to my very own Github Account and Linkedin.
