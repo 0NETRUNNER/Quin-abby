@@ -55,9 +55,9 @@ ___
 
 ___
 
-# [User Experience](#user-experience)
+# User Experience
 
-## [Initial Discussion](#initial-discussion)
+## Initial Discussion
 The Quin Abbey is a Historic location in Quin County Clare. People can come and see the Abbey all year round.
 
 ### Key information for this site
@@ -77,13 +77,13 @@ The Quin Abbey is a Historic location in Quin County Clare. People can come and 
 * To be allowed to Contact and sign up for a tour guide.
 * to see photos of the Abbey before people come along. 
 
-# [Design](#design)
+# Design
 
-## [Imagery](#imagery)
+## Imagery
 All images were taken by myself.
 The 360 ariel video Was found on youtube and I edited it to take the sound off and make it shorter.
 
-## [Wireframes](#wireframes)
+## Wireframes
 * This a wireframe of my home page.
   * ![Wireframe-1](./assets/images/bas-wireframe-1.png)
 
@@ -101,9 +101,9 @@ The 360 ariel video Was found on youtube and I edited it to take the sound off a
   * ![wireframe1](./assets/images/wireframe2.png)
   * ![wireframe3](./assets/images/wireframe3.png)
 
-# [Features](#features)
+# Features
 
-## [General features on each page](#general-features-on-each-page)
+## General features on each page
 
 * Navigation bar 
    * Featured on all five pages, the navigation bar is fully responsive and includes links to the Home, About, Gallery, Contact and the Form confirmation page.
@@ -233,11 +233,11 @@ The 360 ariel video Was found on youtube and I edited it to take the sound off a
    * ![Favicon](./assets/images/apple-icon-180x180.png)
 
 
-# [Technologies Used](#technologies-used)
- ## [languages used](#languages-used)
+# Technologies Used
+ ## languages used
    * HTML and CSS were used to create this website.
 
- ## [Frameworks, Libraries & Programs Used](#frameworks-libraries--programs-used)
+ ## Frameworks, Libraries & Programs Used
    * [Balsamiq](https://balsamiq.com/) - Used to create wireframes.
    * [Paint](https://apps.microsoft.com/store/detail/paint/9PCFS5B6T72H?hl=en-us&gl=us) - Used to create wireframes.
    * [Git](https://git-scm.com/) - For version Control.
@@ -253,7 +253,7 @@ The 360 ariel video Was found on youtube and I edited it to take the sound off a
    * [Favicon](https://www.favicon-generator.org/) - To make a Favicon for the website.
 
 
-# [Testing](#testing) 
+# Testing
  * No errros were found using the [w3c html validator](https://validator.w3.org/nu/)
    * Index ![Index](./assets/images/index-V.png)
 
@@ -269,11 +269,13 @@ The 360 ariel video Was found on youtube and I edited it to take the sound off a
    * CSS 
    * ![CSS](./assets/images/css-V.png)
 
- ## [Bugs](#bugs)
+ ## Bugs
 
-   * 
+   * In the nav the white underline is too long and I was unable to fix it.
+   * On my personal phone the date and time input on the contact page is not centered. 
 
- ## [Lighthouse](#lighthouse)
+
+ ## Lighthouse
  * Home page desktop.
 
    * ![Desktop](./assets/images/rm-lh-index-desktop.png)
@@ -315,7 +317,7 @@ The 360 ariel video Was found on youtube and I edited it to take the sound off a
    * ![Mobile](./assets/images/rm-lh-signup-mobile.png)
 
 
-# [Deployment](#deployment) 
+# Deployment
  
 I Deployed the site on Github Pages - [The Quin Abbey](https://dylanp400.github.io/Quin-abby/index.html).
 
@@ -328,7 +330,7 @@ To Depoy a Website using Github Pages you need too.
 5. From the source dropdown select main branch and press save.
 6. The site has been deployed, the site will take a few minutes to be up and running
 
-## [Local Deployment](#local-deployment) 
+## Local Deployment
 
 ### How to Fork
 To fork the repository:
@@ -347,9 +349,9 @@ To clone the repository:
 
 
 
-# [Credits](#credits)
+# Credits
 
-## [Code Used](#code-used)
+## Code Used
   * For my Gallery I found a grid system on [W3 Schools Gallery image grid](https://www.w3schools.com/howto/howto_css_image_grid_responsive.asp).
 
   * For my form I used [Web Dev Simplified](https://www.youtube.com/watch?v=nLxA9froMOs) video on how to make form. I was not happy with it and the tips and style I got from Web Dev made it look alot nicer on my page.
@@ -358,7 +360,7 @@ To clone the repository:
 
   * For the button that brings you back to the top of the page I followed a video from [Dark Code](https://www.youtube.com/watch?v=Vef9bxTilCU&t=11s).
 
-## [Content](#content)
+## Content
  * I learned how to use flex box from three sources.
    * [The Odin Project](https://www.theodinproject.com/).
    * [Kevin Powell](https://www.youtube.com/@KevinPowell).
@@ -374,11 +376,11 @@ To clone the repository:
     
 
 
-## [Media](#media) 
+## Media
  * All photos have been taken and edited by myself.
  * I got the video on the home page off youtube I could not email the owner to ask for permission but I left a comment underneath asking for permission. [Orignal video](https://www.youtube.com/watch?v=6EgQBH_0Ppc).
 
- ## [Acknowledgments](#acknowledgments)
+ ## Acknowledgments
  * I would like to thank my mentor [Rory](https://github.com/Ri-Dearg) for all the help and advice through out this Project.
  * I would like to thank the Tutor support system for helping me when I was stuck or unsure.
  * I would like to thank every student on slack that helped me with problems and explained my errors to me.
