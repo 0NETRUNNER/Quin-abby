@@ -65,7 +65,7 @@ The Quin Abbey is a Historic location in Quin County Clare. People can come and 
 ### Key information for this site
 * Where you can find the Abbey
 * A 360 ariel view of the Abbey
-* A Gallery with over 20 photos
+* A gallery with over 20 photos
 * A sign up form for a tour guide
 * Location and Opening Times
 
@@ -94,6 +94,8 @@ The Quin Abbey is a Historic location in Quin County Clare. People can come and 
 
 
 ## Typography 
+  I used [Google Fonts](https://fonts.google.com/) to import the following fonts to the site
+
 * The 'Libre Baskerville' font is used on the logo for the site.
    * ![Libre Baskerville](./assets/images/libre-font-rm.png)
 
@@ -304,6 +306,9 @@ The 360 ariel video Was found on youtube and I edited it to take the sound off a
 
    * In the nav the white underline is too long and I was unable to fix it.
    * On my personal phone the date and time input on the contact page is not centered. 
+   * The background video is blurry on mobile view.
+   * on the Firefox browser the button to submit for the form says submit query instead of submit.
+   
 
 
  ## Lighthouse
