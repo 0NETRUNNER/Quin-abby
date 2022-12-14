@@ -27,6 +27,8 @@ ___
   * [User Stories](#user-stories)
 
 * [Design](#design)
+  * [Colour Scheme](#colour-scheme)
+  * [Typography](#typography)
   * [Imagery](#imagery)
   * [Wireframes](#wireframes)
 
@@ -82,7 +84,29 @@ The Quin Abbey is a Historic location in Quin County Clare. People can come and 
 ## Colour Scheme
 
  ![Color-scheme](./assets/images/colour-scheme-rm.png)
- The primary colour is grey(rbg 128, 128, 128,) it is on the background of the about page and the gallery page. I picked grey because It might be a tourist attraction and a historic site but it is also a graveyard and I wanted to be respectfull while making the site. I used whitesmoke(rgb 255, 255, 255) for the links in the nav. I used red(rgb 255, 0, 0,) for the hover effect on the nav, footer, phone number link and the email link. I used white(rgb 245, 245, 245) for the footer icons. I used black for the main content on the about page, footer headings and the border and shadow around the images in the gallery.
+ The primary colour is grey(rbg 128, 128, 128,) it is on the background of the about page and the gallery page. I picked grey because It might be a tourist attraction and a historic site but it is also a graveyard and I wanted to be respectfull while making the site.
+ 
+ I used whitesmoke(rgb 255, 255, 255) for the links in the nav.
+  
+ I used red(rgb 255, 0, 0,) for the hover effect on the nav, footer, phone number link and the email link.
+   
+ I used white(rgb 245, 245, 245) for the footer icons. I used black for the main content on the about page, footer headings and the border and shadow around the images in the gallery.
+
+
+## Typography 
+* The 'Libre Baskerville' font is used on the logo for the site.
+   * ![Libre Baskerville](./assets/images/libre-font-rm.png)
+
+* The 'Karla' font is used for all headlings like the Footer, About page, Form and the Form Confirmation page.
+   * I also used 'Karla' for the paragraphs in the sign up form.
+   * ![Karla](./assets/images/karla-font-rm.png)
+
+* The 'Merriweather' font is used for the Nav, Home page information, About page paragraphs, confirmation page paragraphs, and the Form label.
+   * ![Merriweather](./assets/images/merriweather-font-rm.png)
+
+* The 'Satisfy' font is used for the Opening times and Contact information.
+   * ![Satisfy](./assets/images/satisfy-font-rm.png)   
+
 
 ## Imagery
 All images were taken by myself.
