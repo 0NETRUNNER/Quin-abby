@@ -79,9 +79,14 @@ The Quin Abbey is a Historic location in Quin County Clare. People can come and 
 
 # Design
 
+## Colour Scheme
+
+ ![Color-scheme](./assets/images/colour-scheme-rm.png)
+ The primary colour is grey(rbg 128, 128, 128,) it is on the background of the about page and the gallery page. I picked grey because It might be a tourist attraction and a historic site but it is also a graveyard and I wanted to be respectfull while making the site. I used whitesmoke(rgb 255, 255, 255) for the links in the nav. I used red(rgb 255, 0, 0,) for the hover effect on the nav, footer, phone number link and the email link. I used white(rgb 245, 245, 245) for the footer icons. I used black for the main content on the about page, footer headings and the border and shadow around the images in the gallery.
+
 ## Imagery
 All images were taken by myself.
-The 360 ariel video Was found on youtube and I edited it to take the sound off and make it shorter.
+The 360 ariel video Was found on youtube and I edited it to take the sound off and make it shorter to fit into the background.
 
 ## Wireframes
 * This a wireframe of my home page.
@@ -242,6 +247,7 @@ The 360 ariel video Was found on youtube and I edited it to take the sound off a
    * [Paint](https://apps.microsoft.com/store/detail/paint/9PCFS5B6T72H?hl=en-us&gl=us) - Used to create wireframes.
    * [Git](https://git-scm.com/) - For version Control.
    * [Github](https://github.com/) - To save amd store the files for the website. 
+   * [Gitpod](https://www.gitpod.io/) - Is where I created my code.
    * [Google Fonts](https://fonts.google.com/) - To import the fonts used on the website.
    * [Font awesome](https://fontawesome.com/) - For the iconography on the website.
    * [Google Dev Tools](https://developer.chrome.com/docs/devtools/) - To troubleshoot and test features, solve issues with responsiveness and styling.
@@ -251,6 +257,7 @@ The 360 ariel video Was found on youtube and I edited it to take the sound off a
    * [Youtube](https://www.youtube.com/) - For the video on the home page.
    * [Shields](https://shields.io/) - For the buttons at the top of my Readme.
    * [Favicon](https://www.favicon-generator.org/) - To make a Favicon for the website.
+   * [Coolors](https://coolors.co/808080-ff0000-ffffff-f5f5f5-000000) - For my colour scheme.
 
 
 # Testing
@@ -269,7 +276,7 @@ The 360 ariel video Was found on youtube and I edited it to take the sound off a
    * CSS 
    * ![CSS](./assets/images/css-V.png)
 
- ## Bugs
+ ## Unfixed bugs
 
    * In the nav the white underline is too long and I was unable to fix it.
    * On my personal phone the date and time input on the contact page is not centered. 
