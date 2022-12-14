@@ -43,6 +43,8 @@ ___
   * [Lighthouse](#lighthouse)
   * [bugs](#bugs) 
 
+* [Accessibility](#accessibility)
+
 * [Deployment](#deployment)
   * [Local deplyoment](#local-deployment)
 
@@ -308,7 +310,7 @@ The 360 ariel video Was found on youtube and I edited it to take the sound off a
    * On my personal phone the date and time input on the contact page is not centered. 
    * The background video is blurry on mobile view.
    * on the Firefox browser the button to submit for the form says submit query instead of submit.
-   
+
 
 
  ## Lighthouse
@@ -351,6 +353,14 @@ The 360 ariel video Was found on youtube and I edited it to take the sound off a
 * Form confirmation page mobile.
 
    * ![Mobile](./assets/images/rm-lh-signup-mobile.png)
+
+# Accessibility 
+
+  * I used semantic HTML for the website.
+  * I used alt attributes on all images.
+  * The colour contrast is easy to read.
+  * I used aria-labels on all links.
+  
 
 
 # Deployment
