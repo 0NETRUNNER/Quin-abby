@@ -65,11 +65,11 @@ ___
 The Quin Abbey is a Historic location in Quin County Clare. People can come and see the Abbey all year round.
 
 ### Key information for this site
-* Where you can find the location of the Abbey
-* A 360 ariel view of the Abbey
-* A gallery with 20+ photos
-* A sign up form for a tour guide
-* Location and opening Times
+* Where you can find the location of the Abbey.
+* A 360 ariel view of the Abbey.
+* A gallery with 20+ photos.
+* A sign up form for a tour guide.
+* Location and opening Times.
 
 
 ## User Stories
@@ -138,7 +138,7 @@ The 360 ariel video was found on youtube and I edited it to take the sound off a
 
 ## General features on each page
 
-* Navigation bar 
+* Navigation bar.
    * Featured on all five pages, the navigation bar is fully responsive and includes links to the Home, About, Gallery, Contact and the Form confirmation page.
 
    * This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘home’ button.
@@ -150,7 +150,7 @@ The 360 ariel video was found on youtube and I edited it to take the sound off a
      * ![nav](./assets/images/header-icon-hover-rm.png) 
 
 
-* Home page Video 
+* Home page Video. 
    * The Home page has a video of the Abbey taken from a drone as a background video, it shows every part of the Abbey from the sky.
 
      * ![home video](./assets/images/index-video-rm.png)
@@ -227,7 +227,7 @@ The 360 ariel video was found on youtube and I edited it to take the sound off a
 
 * Form sign up confirmation page.
 
-  * Once you click submit on the form, a new tab will open with a page explaining you have signed up for a tour guide and that the Abbey will contact you by email for a tour guide
+  * Once you click submit on the form, a new tab will open with a page explaining you have signed up for a tour guide and that the Abbey will contact you by email for a tour guide.
   
     * ![Confirmation](./assets/images/signup-confirmation-rm.png)
 
@@ -280,7 +280,7 @@ The 360 ariel video was found on youtube and I edited it to take the sound off a
    * [Google Fonts](https://fonts.google.com/) - Used to import the fonts used on the website.
    * [Font awesome](https://fontawesome.com/) - For the iconography on the website.
    * [Google Dev Tools](https://developer.chrome.com/docs/devtools/) - To troubleshoot and test features, solve issues with responsiveness and styling.
-   * [Tiny PNG](https://tinypng.com/) - used to compress Images. 
+   * [Tiny PNG](https://tinypng.com/) - Used to compress Images. 
    * [ILOVEIMG](https://www.iloveimg.com/) - Used to resize Images.
    * [AM I Resposnsive?](https://amiresponsive.co.uk/) - Used to show the Website image on a range of devices.
    * [Youtube](https://www.youtube.com/) - For the video on the home page.
@@ -301,7 +301,7 @@ The 360 ariel video was found on youtube and I edited it to take the sound off a
 
    * Form confirmation ![Form](./assets/images/signup-v.png)
 
- * No errors were found using the [w3c CSS jigsaw](https://jigsaw.w3.org/css-validator/).
+ * No errors were found using the [w3c CSS jigsaw](https://jigsaw.w3.org/css-validator/)
    * CSS 
    * ![CSS](./assets/images/css-V.png)
 
@@ -310,7 +310,8 @@ The 360 ariel video was found on youtube and I edited it to take the sound off a
    * In the nav the white underline is too long and I was unable to fix it.
    * On my personal phone the date and time input on the contact page is not centered. 
    * The background video is blurry on mobile view.
-   * on the Firefox browser the button to submit for the form says submit query instead of submit.
+   * On the Firefox browser the button to submit for the form says submit query instead of submit.
+   * The About page does not have a scroll bar while the other pages do have one.
 
 
 
@@ -424,7 +425,7 @@ To clone the repository:
 
 ## Media
  * All photos have been taken and edited by myself.
- * I got the video on the home page off youtube I could not email the owner to ask for permission but I left a comment underneath asking for permission. [Orignal video](https://www.youtube.com/watch?v=6EgQBH_0Ppc).
+ * I got the video on the home page off youtube I could not email the owner to ask for permission but I left a comment underneath asking for permission [Orignal video](https://www.youtube.com/watch?v=6EgQBH_0Ppc).
 
  ## Acknowledgments
  * I would like to thank my mentor [Rory](https://github.com/Ri-Dearg) for all the help and advice through out the Project.
