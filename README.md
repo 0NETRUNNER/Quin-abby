@@ -1,12 +1,12 @@
 # The Quin Abbey 
-**The Quin Abbey** is a old Friary in Quin Village County Clare. I have picked this location because of its history and made a responsive website for it where you can see a 360 video of the Abbey on the home page and there is an about page with history, facts and myths of the Abbey. I have also added a gallery with many photos of the outside and inside of the Abbey. On the contact page it has opening times, the location and a form to book a tour guide.
+**The Quin Abbey** is an old Friary in Quin Village County Clare. I have picked this location because of its history and made a responsive website for it where you can see a 360 video of the Abbey on the home page and there is an about page with history, facts and myths of the Abbey. I have also added a gallery with many photos of the outside and inside of the Abbey. On the contact page it has opening times, the location and a form to book a tour guide.
 
 
-![My webstie on AmIresponsive](./assets/images/am-i-responsive.png)
-![GitHub last commit](https://img.shields.io/github/last-commit/DylanP400/Quin-abby)
-![GitHub contributors](https://img.shields.io/github/contributors/DylanP400/Quin-abby)
-![GitHub language count](https://img.shields.io/github/languages/count/DylanP400/Quin-abby)
-![GitHub top language](https://img.shields.io/github/languages/top/DylanP400/Quin-abby)
+![My website on AmIresponsive](./assets/images/am-i-responsive.png)
+![GitHub last commit](https://img.shields.io/github/last-commit/0NETRUNNER/Quin-abby)
+![GitHub contributors](https://img.shields.io/github/contributors/0NETRUNNER/Quin-abby)
+![GitHub language count](https://img.shields.io/github/languages/count/0NETRUNNER/Quin-abby)
+![GitHub top language](https://img.shields.io/github/languages/top/0NETRUNNER/Quin-abby)
 ![W3C Validation](https://img.shields.io/w3c-validation/html?targetUrl=https%3A%2F%2Fvalidator.w3.org%2Fnu%2F%23textarea)
 <a href="http://jigsaw.w3.org/css-validator/check/referer">
     <img style="border:0;width:88px;height:31px"
@@ -16,7 +16,7 @@
 
 
 
- [View the Quin Abbey live website on Github pages](https://dylanp400.github.io/Quin-abby/index.html)
+ [View the Quin Abbey live website on Github pages](https://0netrunner.github.io/Quin-abby/index.html)
 
 ___ 
 
@@ -367,12 +367,12 @@ The 360 ariel video was found on youtube and I edited it to take the sound off a
 
 # Deployment
  
-I Deployed the site on Github Pages - [The Quin Abbey](https://dylanp400.github.io/Quin-abby/index.html).
+I Deployed the site on Github Pages - [The Quin Abbey](https://0netrunner.github.io/Quin-abby/index.html).
 
 To Depoy a Website using Github Pages you need too.
 
 1. Login (or signup) to Github.
-2. Go to the repository for this project, [DylanP400/Quin-abby](https://github.com/DylanP400/Quin-abby)
+2. Go to the repository for this project, [DylanP400/Quin-abby](https://github.com/0NETRUNNER/Quin-abby)
 3. Click the settings button.
 4. Select pages in the left hand navigation menu.
 5. From the source dropdown select main branch and press save.
@@ -383,14 +383,14 @@ To Depoy a Website using Github Pages you need too.
 ### How to Fork
 To fork the repository:
 1. Log in to Github.
-2. Go to the repository for this project, [DylanP400/Quin-abby](https://github.com/DylanP400/Quin-abby)
+2. Go to the repository for this project, [DylanP400/Quin-abby](https://github.com/0NETRUNNER/Quin-abby)
 3. Click the Fork button in the top right corner.
 
 ### How to clone 
 To clone the repository:
 
 1. Log in to GitHub.
-2. Go to the repository for this project, [DylanP400/Quin-abby](https://github.com/DylanP400/Quin-abby)
+2. Go to the repository for this project, [0NETRUNNER/Quin-abby](https://github.com/0NETRUNNER/Quin-abby)
 3. Click on the code button, select whether you would like to clone with HTTPS, SSH or GitHub CLI and copy the link shown.
 4. Open the terminal in your code editor and change the current working directory to the location you want to use for the cloned directory.
 5. Type 'git clone' into the terminal and then paste the link you copied in step 3. Press enter.
