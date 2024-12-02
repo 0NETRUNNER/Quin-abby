@@ -372,7 +372,7 @@ I Deployed the site on Github Pages - [The Quin Abbey](https://0netrunner.github
 To Depoy a Website using Github Pages you need too.
 
 1. Login (or signup) to Github.
-2. Go to the repository for this project, [DylanP400/Quin-abby](https://github.com/0NETRUNNER/Quin-abby)
+2. Go to the repository for this project, [0NETRUNNER/Quin-abby](https://github.com/0NETRUNNER/Quin-abby)
 3. Click the settings button.
 4. Select pages in the left hand navigation menu.
 5. From the source dropdown select main branch and press save.
@@ -383,7 +383,7 @@ To Depoy a Website using Github Pages you need too.
 ### How to Fork
 To fork the repository:
 1. Log in to Github.
-2. Go to the repository for this project, [DylanP400/Quin-abby](https://github.com/0NETRUNNER/Quin-abby)
+2. Go to the repository for this project, [0NETRUNNER/Quin-abby](https://github.com/0NETRUNNER/Quin-abby)
 3. Click the Fork button in the top right corner.
 
 ### How to clone 
